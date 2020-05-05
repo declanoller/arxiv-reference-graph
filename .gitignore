@@ -1,0 +1,7 @@
+misc/*
+misc_pics/*
+saved_pdfs/*
+saved_sources/*
+txts/*
+unpacked_sources/*
+*__pycache__*

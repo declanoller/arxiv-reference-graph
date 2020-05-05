@@ -1,0 +1,6807 @@
+{
+    "nodes": [
+        {
+            "title": "RobustFill: Neural Program Learning under Noisy I/O",
+            "color": "orange",
+            "link": "https://arxiv.org/abs/1703.07469",
+            "depth": 0,
+            "year": "2017",
+            "n_parents": 0,
+            "id": 0,
+            "x": 942.00762418053,
+            "y": 0.0
+        },
+        {
+            "title": "Syntax guided synthesis",
+            "color": "mediumseagreen",
+            "link": "https://arxiv.org/abs/1405.5590",
+            "depth": 1,
+            "year": "2013",
+            "n_parents": 4,
+            "id": 1,
+            "x": 770.6001705446645,
+            "y": 204.54545454545462
+        },
+        {
+            "title": "Neural machine translation by jointly learning to align and translate",
+            "color": "mediumseagreen",
+            "link": "https://arxiv.org/abs/1409.0473",
+            "depth": 1,
+            "year": "2014",
+            "n_parents": 9,
+            "id": 2,
+            "x": 670.5166237908369,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Deepcoder: Learning to write programs",
+            "color": "mediumseagreen",
+            "link": "https://arxiv.org/abs/1611.01989",
+            "depth": 1,
+            "year": "2016",
+            "n_parents": 1,
+            "id": 3,
+            "x": 1429.1959236086445,
+            "y": 68.18181818181824
+        },
+        {
+            "title": "Terpret: A probabilistic programming language for program induction",
+            "color": "mediumseagreen",
+            "link": "https://arxiv.org/abs/1608.04428",
+            "depth": 1,
+            "year": "2016",
+            "n_parents": 4,
+            "id": 4,
+            "x": 1146.4886636689534,
+            "y": 136.36363636363637
+        },
+        {
+            "title": "Neural turing machines",
+            "color": "mediumseagreen",
+            "link": "https://arxiv.org/abs/1410.5401",
+            "depth": 1,
+            "year": "2014",
+            "n_parents": 9,
+            "id": 5,
+            "x": 1376.278186244552,
+            "y": 545.4545454545455
+        },
+        {
+            "title": "Hybrid computing using a neural network with dynamic external memory",
+            "color": "tomato",
+            "link": "none",
+            "depth": 1,
+            "year": "2016",
+            "n_parents": 3,
+            "id": 6,
+            "x": 1644.907602467002,
+            "y": 272.72727272727275
+        },
+        {
+            "title": "Automating string processing in spreadsheets using input output examples",
+            "color": "tomato",
+            "link": "none",
+            "depth": 1,
+            "year": "2011",
+            "n_parents": 3,
+            "id": 7,
+            "x": 783.5420084869697,
+            "y": 204.54545454545462
+        },
+        {
+            "title": "Spreadsheet data manipulation using examples",
+            "color": "tomato",
+            "link": "none",
+            "depth": 1,
+            "year": "2012",
+            "n_parents": 3,
+            "id": 8,
+            "x": 760.2467001908202,
+            "y": 204.54545454545462
+        },
+        {
+            "title": "Attention based multimodal neural machine translation",
+            "color": "tomato",
+            "link": "none",
+            "depth": 1,
+            "year": "2016",
+            "n_parents": 1,
+            "id": 9,
+            "x": 1671.6540675477663,
+            "y": 68.18181818181824
+        },
+        {
+            "title": "Inferring algorithmic patterns with stack augmented recurrent nets",
+            "color": "mediumseagreen",
+            "link": "https://arxiv.org/abs/1503.01007",
+            "depth": 1,
+            "year": "2015",
+            "n_parents": 8,
+            "id": 10,
+            "x": 970.1920712548838,
+            "y": 477.2727272727273
+        },
+        {
+            "title": "Neural gpus learn algorithms",
+            "color": "plum",
+            "link": "https://arxiv.org/abs/1511.08228",
+            "depth": 1,
+            "year": "2015",
+            "n_parents": 5,
+            "id": 11,
+            "x": 1558.7724810509924,
+            "y": 409.0909090909091
+        },
+        {
+            "title": "Neural random access machines",
+            "color": "mediumseagreen",
+            "link": "https://arxiv.org/abs/1511.06392",
+            "depth": 1,
+            "year": "2016",
+            "n_parents": 6,
+            "id": 12,
+            "x": 1303.3724991695653,
+            "y": 409.0909090909091
+        },
+        {
+            "title": "Effective approaches to attention based neural machine translation",
+            "color": "mediumseagreen",
+            "link": "https://arxiv.org/abs/1508.04025",
+            "depth": 1,
+            "year": "2015",
+            "n_parents": 2,
+            "id": 13,
+            "x": 814.8900159472203,
+            "y": 477.2727272727273
+        },
+        {
+            "title": "Knowledge and reasoning in program synthesis",
+            "color": "tomato",
+            "link": "none",
+            "depth": 1,
+            "year": "1975",
+            "n_parents": 1,
+            "id": 14,
+            "x": 1682.0075379016105,
+            "y": 68.18181818181824
+        },
+        {
+            "title": "A deductive approach to program synthesis",
+            "color": "tomato",
+            "link": "none",
+            "depth": 1,
+            "year": "1980",
+            "n_parents": 1,
+            "id": 15,
+            "x": 1692.3610082554546,
+            "y": 68.18181818181824
+        },
+        {
+            "title": "Computation of normalized edit distance and applications",
+            "color": "tomato",
+            "link": "none",
+            "depth": 1,
+            "year": "1993",
+            "n_parents": 1,
+            "id": 16,
+            "x": 1702.714478609299,
+            "y": 68.18181818181824
+        },
+        {
+            "title": "A machine learning framework for programming by example",
+            "color": "tomato",
+            "link": "none",
+            "depth": 1,
+            "year": "2013",
+            "n_parents": 3,
+            "id": 17,
+            "x": 957.8254261100143,
+            "y": 136.36363636363637
+        },
+        {
+            "title": "Neural programmer: Inducing latent programs with gradient descent",
+            "color": "mediumseagreen",
+            "link": "https://arxiv.org/abs/1511.04834",
+            "depth": 1,
+            "year": "2016",
+            "n_parents": 6,
+            "id": 18,
+            "x": 1004.7036391010312,
+            "y": 272.72727272727275
+        },
+        {
+            "title": "Neuro symbolic program synthesis",
+            "color": "mediumseagreen",
+            "link": "https://arxiv.org/abs/1611.01855",
+            "depth": 1,
+            "year": "2017",
+            "n_parents": 1,
+            "id": 19,
+            "x": 871.5465064946457,
+            "y": 68.18181818181824
+        },
+        {
+            "title": "Flashmeta: a framework for inductive program synthesis",
+            "color": "tomato",
+            "link": "none",
+            "depth": 1,
+            "year": "2015",
+            "n_parents": 3,
+            "id": 20,
+            "x": 1633.978939315722,
+            "y": 204.54545454545462
+        },
+        {
+            "title": "Neural programmer interpreters",
+            "color": "mediumseagreen",
+            "link": "https://arxiv.org/abs/1511.06279",
+            "depth": 1,
+            "year": "2016",
+            "n_parents": 6,
+            "id": 21,
+            "x": 1233.630372480476,
+            "y": 340.90909090909093
+        },
+        {
+            "title": "Programming with a differentiable forth interpreter",
+            "color": "mediumseagreen",
+            "link": "https://arxiv.org/abs/1605.06640",
+            "depth": 1,
+            "year": "2016",
+            "n_parents": 4,
+            "id": 22,
+            "x": 1458.113741499729,
+            "y": 204.54545454545462
+        },
+        {
+            "title": "Sequence to sequence learning with neural networks",
+            "color": "mediumseagreen",
+            "link": "https://arxiv.org/abs/1409.3215",
+            "depth": 1,
+            "year": "2014",
+            "n_parents": 12,
+            "id": 23,
+            "x": 1035.9078483619228,
+            "y": 681.8181818181819
+        },
+        {
+            "title": "Improved semantic representations from tree structured long short term memory networks",
+            "color": "mediumseagreen",
+            "link": "https://arxiv.org/abs/1503.00075",
+            "depth": 1,
+            "year": "2015",
+            "n_parents": 1,
+            "id": 24,
+            "x": 210.3623858422045,
+            "y": 545.4545454545455
+        },
+        {
+            "title": "Grammar as a foreign language",
+            "color": "mediumseagreen",
+            "link": "https://arxiv.org/abs/1412.7449",
+            "depth": 1,
+            "year": "2015",
+            "n_parents": 3,
+            "id": 25,
+            "x": 491.3440673895882,
+            "y": 545.4545454545455
+        },
+        {
+            "title": "Prow: A step toward automatic program writing",
+            "color": "tomato",
+            "link": "none",
+            "depth": 1,
+            "year": "1969",
+            "n_parents": 1,
+            "id": 26,
+            "x": 1713.0679489631432,
+            "y": 68.18181818181824
+        },
+        {
+            "title": "Show, attend and tell: Neural image caption generation with visual attention",
+            "color": "mediumseagreen",
+            "link": "https://arxiv.org/abs/1502.03044",
+            "depth": 1,
+            "year": "2015",
+            "n_parents": 3,
+            "id": 27,
+            "x": 781.2412372972266,
+            "y": 545.4545454545455
+        },
+        {
+            "title": "Learning to execute",
+            "color": "mediumseagreen",
+            "link": "https://arxiv.org/abs/1410.4615",
+            "depth": 1,
+            "year": "2014",
+            "n_parents": 5,
+            "id": 28,
+            "x": 1157.9925196176694,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Domain adaptation via pseudo in domain data selection",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 29,
+            "x": 797.4904338247876,
+            "y": 681.8181818181819
+        },
+        {
+            "title": "Theano: new features and speed improvements",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1211.5590",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 2,
+            "id": 30,
+            "x": 650.2410776812253,
+            "y": 681.8181818181819
+        },
+        {
+            "title": "Learning long term dependencies with gradient descent is difficult",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 5,
+            "id": 31,
+            "x": 327.27032192102894,
+            "y": 750.0000000000001
+        },
+        {
+            "title": "A neural probabilistic language model",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 2,
+            "id": 32,
+            "x": 870.9713136972099,
+            "y": 750.0000000000001
+        },
+        {
+            "title": "Theano: a CPU and GPU math expression compiler",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 2,
+            "id": 33,
+            "x": 660.5945480350695,
+            "y": 681.8181818181819
+        },
+        {
+            "title": "Audio chord recognition with recurrent neural networks",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 34,
+            "x": 807.8439041786319,
+            "y": 681.8181818181819
+        },
+        {
+            "title": "Learning phrase representations using RNN encoder decoder for statistical machine translation",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1406.1078",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 6,
+            "id": 35,
+            "x": 947.9033503542469,
+            "y": 750.0000000000001
+        },
+        {
+            "title": "On the properties of neural machine translation: Encoder Decoder approaches",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1409.1259",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 2,
+            "id": 36,
+            "x": 639.887607327381,
+            "y": 681.8181818181819
+        },
+        {
+            "title": "Fast and robust neural network joint models for statistical machine translation",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 2,
+            "id": 37,
+            "x": 907.4960563343826,
+            "y": 750.0000000000001
+        },
+        {
+            "title": "Recursive hetero associative memories for translation",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 38,
+            "x": 818.1973745324761,
+            "y": 681.8181818181819
+        },
+        {
+            "title": "Maxout networks",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1302.4389",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 39,
+            "x": 714.6626709940338,
+            "y": 681.8181818181819
+        },
+        {
+            "title": "Sequence transduction with recurrent neural networks",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1211.3711",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 40,
+            "x": 725.016141347878,
+            "y": 681.8181818181819
+        },
+        {
+            "title": "Generating sequences with recurrent neural networks",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1308.0850",
+            "depth": 2,
+            "year": "1308",
+            "n_parents": 6,
+            "id": 41,
+            "x": 530.8885722132987,
+            "y": 750.0000000000001
+        },
+        {
+            "title": "Hybrid speech recognition with deep bidirectional LSTM",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 2,
+            "id": 42,
+            "x": 629.5341369735368,
+            "y": 681.8181818181819
+        },
+        {
+            "title": "Multilingual distributed representations without word alignment",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1312.6173",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 2,
+            "id": 43,
+            "x": 930.935162829891,
+            "y": 750.0000000000001
+        },
+        {
+            "title": "Long short term memory",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1507.01526",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 14,
+            "id": 44,
+            "x": 1431.6404929977468,
+            "y": 750.0000000000001
+        },
+        {
+            "title": "Recurrent continuous translation models",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 4,
+            "id": 45,
+            "x": 599.9117079055936,
+            "y": 750.0000000000001
+        },
+        {
+            "title": "Statistical Machine Translation\\/",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1809.01272",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 46,
+            "x": 735.3696117017223,
+            "y": 681.8181818181819
+        },
+        {
+            "title": "Statistical phrase based translation",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 2,
+            "id": 47,
+            "x": 834.0151764619603,
+            "y": 681.8181818181819
+        },
+        {
+            "title": "On the difficulty of training recurrent neural networks",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1211.5063",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 3,
+            "id": 48,
+            "x": 692.9491428908327,
+            "y": 750.0000000000001
+        },
+        {
+            "title": "How to construct deep recurrent neural networks",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1312.6026",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 3,
+            "id": 49,
+            "x": 844.3686468158046,
+            "y": 681.8181818181819
+        },
+        {
+            "title": "Overcoming the curse of sentence length for neural machine translation using automatic segmentation",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1409.1257",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 2,
+            "id": 50,
+            "x": 808.1315005773498,
+            "y": 750.0000000000001
+        },
+        {
+            "title": "Bidirectional recurrent neural networks",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1604.03390",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 51,
+            "x": 756.0765524094107,
+            "y": 681.8181818181819
+        },
+        {
+            "title": "Continuous space translation models for phrase based statistical machine translation",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 52,
+            "x": 766.430022763255,
+            "y": 681.8181818181819
+        },
+        {
+            "title": "Continuous space language models for statistical machine translation",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 53,
+            "x": 776.7834931170992,
+            "y": 681.8181818181819
+        },
+        {
+            "title": "ADADELTA: An adaptive learning rate method",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1212.5701",
+            "depth": 2,
+            "year": "1212",
+            "n_parents": 1,
+            "id": 54,
+            "x": 787.1369634709434,
+            "y": 681.8181818181819
+        },
+        {
+            "title": "DeepMath deep sequence models for premise selection",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2016",
+            "n_parents": 1,
+            "id": 55,
+            "x": 1533.6077961631765,
+            "y": 136.36363636363637
+        },
+        {
+            "title": "Adaptive neural compilation",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1605.07969",
+            "depth": 2,
+            "year": "2016",
+            "n_parents": 4,
+            "id": 56,
+            "x": 1350.3945103599413,
+            "y": 272.72727272727275
+        },
+        {
+            "title": "The Helmholtz machine",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "1995",
+            "n_parents": 1,
+            "id": 57,
+            "x": 1543.9612665170207,
+            "y": 136.36363636363637
+        },
+        {
+            "title": "On label dependence and loss minimization in multi label classification",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2012",
+            "n_parents": 1,
+            "id": 58,
+            "x": 1554.314736870865,
+            "y": 136.36363636363637
+        },
+        {
+            "title": "Bayes optimal multilabel classification via probabilistic classifier chains",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2010",
+            "n_parents": 1,
+            "id": 59,
+            "x": 1366.7875050868613,
+            "y": 136.36363636363637
+        },
+        {
+            "title": "Synthesizing data structure transformations from input output examples",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2015",
+            "n_parents": 1,
+            "id": 60,
+            "x": 1382.6053070163455,
+            "y": 136.36363636363637
+        },
+        {
+            "title": "Learning to transduce with unbounded memory",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1506.02516",
+            "depth": 2,
+            "year": "2015",
+            "n_parents": 4,
+            "id": 61,
+            "x": 1626.9328275471335,
+            "y": 477.2727272727273
+        },
+        {
+            "title": "Programming by examples: Applications, algorithms, and ambiguity resolution",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2016",
+            "n_parents": 1,
+            "id": 62,
+            "x": 1392.9587773701899,
+            "y": 136.36363636363637
+        },
+        {
+            "title": "Synthesis of loop free programs",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2011",
+            "n_parents": 2,
+            "id": 63,
+            "x": 942.00762418053,
+            "y": 136.36363636363637
+        },
+        {
+            "title": "Learning to pass expectation propagation messages",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2013",
+            "n_parents": 1,
+            "id": 64,
+            "x": 1403.312247724034,
+            "y": 136.36363636363637
+        },
+        {
+            "title": "The informed sampler: A discriminative approach to Bayesian inference in generative computer vision models",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1402.0859",
+            "depth": 2,
+            "year": "2015",
+            "n_parents": 1,
+            "id": 65,
+            "x": 1413.6657180778782,
+            "y": 136.36363636363637
+        },
+        {
+            "title": "Stochastic gradient VB and the variational auto encoder",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2014",
+            "n_parents": 1,
+            "id": 66,
+            "x": 1424.0191884317226,
+            "y": 136.36363636363637
+        },
+        {
+            "title": "Gated graph sequence neural networks",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1511.05493",
+            "depth": 2,
+            "year": "2016",
+            "n_parents": 1,
+            "id": 67,
+            "x": 1434.3726587855667,
+            "y": 136.36363636363637
+        },
+        {
+            "title": "Latent predictor networks for code generation",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1603.06744",
+            "depth": 2,
+            "year": "2016",
+            "n_parents": 1,
+            "id": 68,
+            "x": 1444.740508959347,
+            "y": 136.36363636363637
+        },
+        {
+            "title": "Deep network guided proof search",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1701.06972",
+            "depth": 2,
+            "year": "2017",
+            "n_parents": 1,
+            "id": 69,
+            "x": 1471.4869740401111,
+            "y": 136.36363636363637
+        },
+        {
+            "title": "Learning program embeddings to propagate feedback on student code",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1505.05969",
+            "depth": 2,
+            "year": "2015",
+            "n_parents": 1,
+            "id": 70,
+            "x": 1481.8404443939553,
+            "y": 136.36363636363637
+        },
+        {
+            "title": "Stochastic program optimization",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2016",
+            "n_parents": 1,
+            "id": 71,
+            "x": 1492.1939147477997,
+            "y": 136.36363636363637
+        },
+        {
+            "title": "Real time human pose recognition in parts from single depth images",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2013",
+            "n_parents": 1,
+            "id": 72,
+            "x": 1502.5473851016438,
+            "y": 136.36363636363637
+        },
+        {
+            "title": "Predicting a correct program in programming by example",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2015",
+            "n_parents": 1,
+            "id": 73,
+            "x": 1512.900855455488,
+            "y": 136.36363636363637
+        },
+        {
+            "title": "\\Program Synthesis By Sketching",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2008",
+            "n_parents": 3,
+            "id": 74,
+            "x": 982.8463127984711,
+            "y": 204.54545454545462
+        },
+        {
+            "title": "Learning stochastic inverses",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2013",
+            "n_parents": 1,
+            "id": 75,
+            "x": 1523.2543258093324,
+            "y": 136.36363636363637
+        },
+        {
+            "title": "End to end memory networks",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1503.08895",
+            "depth": 2,
+            "year": "2015",
+            "n_parents": 4,
+            "id": 76,
+            "x": 1368.3692852798097,
+            "y": 477.2727272727273
+        },
+        {
+            "title": "Memory networks",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1410.3916",
+            "depth": 2,
+            "year": "2015",
+            "n_parents": 5,
+            "id": 77,
+            "x": 1190.2033162740736,
+            "y": 545.4545454545455
+        },
+        {
+            "title": "Learning simple algorithms from examples",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1511.07275",
+            "depth": 2,
+            "year": "2016",
+            "n_parents": 3,
+            "id": 78,
+            "x": 1357.4406221285296,
+            "y": 409.0909090909091
+        },
+        {
+            "title": "Control flow analysis",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1512.03861",
+            "depth": 2,
+            "year": "1970",
+            "n_parents": 1,
+            "id": 79,
+            "x": 1224.4272877215033,
+            "y": 204.54545454545462
+        },
+        {
+            "title": "The \\toolSMT LIB standard: Version 2.5",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2015",
+            "n_parents": 1,
+            "id": 80,
+            "x": 1234.7807580753474,
+            "y": 204.54545454545462
+        },
+        {
+            "title": "The inference of regular lisp programs from examples",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "1978",
+            "n_parents": 2,
+            "id": 81,
+            "x": 909.22163472669,
+            "y": 204.54545454545462
+        },
+        {
+            "title": "Stan: A probabilistic programming language",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2015",
+            "n_parents": 1,
+            "id": 82,
+            "x": 1245.1342284291916,
+            "y": 204.54545454545462
+        },
+        {
+            "title": "Bounded model checking using satisfiability solving",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2001",
+            "n_parents": 1,
+            "id": 83,
+            "x": 1255.487698783036,
+            "y": 204.54545454545462
+        },
+        {
+            "title": "Using prior knowledge in a \\NNPDA\\ to learn context free languages",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "1992",
+            "n_parents": 2,
+            "id": 84,
+            "x": 711.355312408778,
+            "y": 545.4545454545455
+        },
+        {
+            "title": "Identifying and attacking the saddle point problem in high dimensional non convex optimization",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1406.2572",
+            "depth": 2,
+            "year": "2014",
+            "n_parents": 1,
+            "id": 85,
+            "x": 1265.8411691368801,
+            "y": 204.54545454545462
+        },
+        {
+            "title": "Z3: an efficient SMT solver",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2008",
+            "n_parents": 1,
+            "id": 86,
+            "x": 1276.1946394907243,
+            "y": 204.54545454545462
+        },
+        {
+            "title": "Unsupervised learning by program synthesis",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2015",
+            "n_parents": 1,
+            "id": 87,
+            "x": 1286.5481098445687,
+            "y": 204.54545454545462
+        },
+        {
+            "title": "Higher order recurrent networks and grammatical inference",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "1989",
+            "n_parents": 1,
+            "id": 88,
+            "x": 1296.9015801984128,
+            "y": 204.54545454545462
+        },
+        {
+            "title": "Church: a language for generative models",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1206.3255",
+            "depth": 2,
+            "year": "2008",
+            "n_parents": 2,
+            "id": 89,
+            "x": 1360.7479807137856,
+            "y": 272.72727272727275
+        },
+        {
+            "title": "Program verification as probabilistic inference",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2007",
+            "n_parents": 1,
+            "id": 90,
+            "x": 1307.255050552257,
+            "y": 204.54545454545462
+        },
+        {
+            "title": "A clockwork RNN",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1402.3511",
+            "depth": 2,
+            "year": "2014",
+            "n_parents": 2,
+            "id": 91,
+            "x": 1595.728618286242,
+            "y": 681.8181818181819
+        },
+        {
+            "title": "Complete functional synthesis",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2010",
+            "n_parents": 1,
+            "id": 92,
+            "x": 1053.3074304843556,
+            "y": 204.54545454545462
+        },
+        {
+            "title": "Human level concept learning through probabilistic program induction",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2015",
+            "n_parents": 1,
+            "id": 93,
+            "x": 1063.6609008381997,
+            "y": 204.54545454545462
+        },
+        {
+            "title": "Llvm: A compilation framework for lifelong program analysis \\& transformation",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 94,
+            "x": 1074.0143711920439,
+            "y": 204.54545454545462
+        },
+        {
+            "title": "Learning longer memory in recurrent neural networks",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1412.7753",
+            "depth": 2,
+            "year": "2015",
+            "n_parents": 2,
+            "id": 95,
+            "x": 1147.6390492638252,
+            "y": 545.4545454545455
+        },
+        {
+            "title": "Microsoft Research Cambridge. http://research.microsoft.com/infernet",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2014",
+            "n_parents": 1,
+            "id": 96,
+            "x": 1084.3678415458883,
+            "y": 204.54545454545462
+        },
+        {
+            "title": "Gates",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1506.08251",
+            "depth": 2,
+            "year": "2009",
+            "n_parents": 1,
+            "id": 97,
+            "x": 1094.7213118997324,
+            "y": 204.54545454545462
+        },
+        {
+            "title": "A connectionist symbol manipulator that discovers the structure of context free languages",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "1992",
+            "n_parents": 2,
+            "id": 98,
+            "x": 1157.9925196176694,
+            "y": 545.4545454545455
+        },
+        {
+            "title": "Adding gradient noise improves learning for very deep networks",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1511.06807",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 4,
+            "id": 99,
+            "x": 1358.0158149259655,
+            "y": 477.2727272727273
+        },
+        {
+            "title": "Automatic sampler discovery via probabilistic programming and approximate bayesian computation",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2016",
+            "n_parents": 1,
+            "id": 100,
+            "x": 1105.0747822535766,
+            "y": 204.54545454545462
+        },
+        {
+            "title": "Chlorophyll: synthesis aided compiler for low power spatial architectures",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2014",
+            "n_parents": 1,
+            "id": 101,
+            "x": 1115.428252607421,
+            "y": 204.54545454545462
+        },
+        {
+            "title": "Learning programs from noisy data",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2016",
+            "n_parents": 1,
+            "id": 102,
+            "x": 1125.7817229612651,
+            "y": 204.54545454545462
+        },
+        {
+            "title": "Counterexample guided quantifier instantiation for synthesis in SMT",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2015",
+            "n_parents": 1,
+            "id": 103,
+            "x": 1136.1351933151093,
+            "y": 204.54545454545462
+        },
+        {
+            "title": "Stochastic superoptimization",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1211.0557",
+            "depth": 2,
+            "year": "2013",
+            "n_parents": 2,
+            "id": 104,
+            "x": 919.5751050805342,
+            "y": 204.54545454545462
+        },
+        {
+            "title": "Syntactic analysis of two dimensional visual signals in the presence of noise",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "1976",
+            "n_parents": 1,
+            "id": 105,
+            "x": 1146.4886636689534,
+            "y": 204.54545454545462
+        },
+        {
+            "title": "Blinkfill: Semi supervised programming by example for syntactic string transformations",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2016",
+            "n_parents": 1,
+            "id": 106,
+            "x": 1156.8421340227978,
+            "y": 204.54545454545462
+        },
+        {
+            "title": "Automated feedback generation for introductory programming assignments",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1204.1751",
+            "depth": 2,
+            "year": "2013",
+            "n_parents": 2,
+            "id": 107,
+            "x": 935.3929070100185,
+            "y": 204.54545454545462
+        },
+        {
+            "title": "Programming by sketching for bit streaming programs",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2005",
+            "n_parents": 3,
+            "id": 108,
+            "x": 1053.3074304843556,
+            "y": 272.72727272727275
+        },
+        {
+            "title": "Combinatorial sketching for finite programs",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2006",
+            "n_parents": 2,
+            "id": 109,
+            "x": 1371.1014510676298,
+            "y": 272.72727272727275
+        },
+        {
+            "title": "Tightening lp relaxations for map using message passing",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1206.3288",
+            "depth": 2,
+            "year": "2008",
+            "n_parents": 1,
+            "id": 110,
+            "x": 1167.195604376642,
+            "y": 204.54545454545462
+        },
+        {
+            "title": "URL \\urlhttp://mc stan.org/",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2015",
+            "n_parents": 1,
+            "id": 111,
+            "x": 1177.5490747304862,
+            "y": 204.54545454545462
+        },
+        {
+            "title": "A methodology for lisp program construction from examples",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "1977",
+            "n_parents": 2,
+            "id": 112,
+            "x": 956.6750405151427,
+            "y": 204.54545454545462
+        },
+        {
+            "title": "Lecture 6.5 RmsProp: Divide the gradient by a running average of its recent magnitude",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2012",
+            "n_parents": 1,
+            "id": 113,
+            "x": 1187.9025450843305,
+            "y": 204.54545454545462
+        },
+        {
+            "title": "TRANSIT: specifying protocols with concolic snippets",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2013",
+            "n_parents": 2,
+            "id": 114,
+            "x": 967.0285108689869,
+            "y": 204.54545454545462
+        },
+        {
+            "title": "Graphical models, exponential families, and variational inference",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2008",
+            "n_parents": 1,
+            "id": 115,
+            "x": 1198.2560154381747,
+            "y": 204.54545454545462
+        },
+        {
+            "title": "A linear programming approach to max sum problem: A review",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2007",
+            "n_parents": 1,
+            "id": 116,
+            "x": 1208.6094857920189,
+            "y": 204.54545454545462
+        },
+        {
+            "title": "Memory",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1003.0140",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 117,
+            "x": 1506.8613310824123,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Time constraints and resource sharing in adults' working memory spans",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 118,
+            "x": 1517.2148014362565,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Three models for the description of language",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 119,
+            "x": 1527.5682717901007,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Learning context free grammars: Capabilities and limitations of a recurrent neural network with an external stack memory",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 3,
+            "id": 120,
+            "x": 1131.2460545369051,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Simple substrates for complex cognition",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 121,
+            "x": 1537.921742143945,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "How to build a brain: A neural architecture for biological cognition",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 122,
+            "x": 1548.2752124977892,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "The evolution of the language faculty: clarifications and implications",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 123,
+            "x": 1558.6286828516334,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Connectionism and cognitive architecture: A critical analysis",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 124,
+            "x": 1568.9821532054777,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "A general framework for adaptive processing of data structures",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 125,
+            "x": 1579.335623559322,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Memory and the computational brain: Why cognitive science will transform neuroscience, volume~3",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 126,
+            "x": 1248.0101924163705,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Cellular basis of working memory",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 127,
+            "x": 1258.363662770215,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Towards end to end speech recognition with recurrent neural networks",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 2,
+            "id": 128,
+            "x": 1216.3745885574021,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Speech recognition with deep recurrent neural networks",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1303.5778",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 2,
+            "id": 129,
+            "x": 1267.5667475291875,
+            "y": 681.8181818181819
+        },
+        {
+            "title": "The problem of rapid variable creation",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 130,
+            "x": 1268.717133124059,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Banishing the homunculus: making working memory work",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 131,
+            "x": 1279.0706034779032,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Learning distributed representations of concepts",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 132,
+            "x": 1289.4240738317476,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Gradient flow in recurrent nets: the difficulty of learning long term dependencies",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 133,
+            "x": 1299.7775441855918,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Learning to learn using gradient descent",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 134,
+            "x": 1310.131014539436,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Neural networks and physical systems with emergent collective computational abilities",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 135,
+            "x": 1320.4844848932803,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "The nature of the language faculty and its implications for evolution of language (reply to fitch, hauser, and chomsky)",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 136,
+            "x": 1330.8379552471245,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Hyperdimensional computing: An introduction to computing in distributed representation with high dimensional random vectors",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 137,
+            "x": 1341.1914256009686,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "The algebraic mind: Integrating connectionism and cognitive science",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 138,
+            "x": 1351.544895954813,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "The magical number seven, plus or minus two: some limits on our capacity for processing information",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 139,
+            "x": 1361.8983663086572,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "The cognitive revolution: a historical perspective",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 140,
+            "x": 1372.2518366625013,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Computation: finite and infinite machines",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 141,
+            "x": 1382.6053070163455,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Machine learning: a probabilistic perspective",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 142,
+            "x": 1392.9587773701899,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Holographic Reduced Representation: Distributed representation for cognitive structures",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 143,
+            "x": 1403.312247724034,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Recursive distributed representations",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 144,
+            "x": 1413.6657180778782,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "The importance of mixed selectivity in complex cognitive tasks",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 145,
+            "x": 1424.0191884317226,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Parallel distributed processing, volume~1",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 146,
+            "x": 1434.3726587855667,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Continuous attractors and oculomotor control",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 147,
+            "x": 1444.740508959347,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "On the computational power of neural nets",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 148,
+            "x": 1455.093979313191,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Tensor product variable binding and the representation of symbolic structures in connectionist systems",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 149,
+            "x": 1465.4474496670355,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Semantic compositionality through recursive matrix vector spaces",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 2,
+            "id": 150,
+            "x": 1190.2033162740736,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Generating text with recurrent neural networks",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 151,
+            "x": 1475.8009200208796,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Boltzcons: Dynamic symbol structures in a connectionist network",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 152,
+            "x": 1486.1543903747238,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "First draft of a report on the edvac",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 2,
+            "id": 153,
+            "x": 1232.1923904868863,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Synaptic basis of cortical persistent activity: the importance of nmda receptors to working memory",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 154,
+            "x": 1496.507860728568,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Scaling learning algorithms towards ai",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2007",
+            "n_parents": 1,
+            "id": 155,
+            "x": 1058.1965692625597,
+            "y": 545.4545454545455
+        },
+        {
+            "title": "Pattern recognition and machine learning",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2006",
+            "n_parents": 1,
+            "id": 156,
+            "x": 1068.5500396164039,
+            "y": 545.4545454545455
+        },
+        {
+            "title": "Context free and context sensitive dynamics in recurrent neural networks",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2000",
+            "n_parents": 1,
+            "id": 157,
+            "x": 1078.9035099702483,
+            "y": 545.4545454545455
+        },
+        {
+            "title": "Large scale machine learning with stochastic gradient descent",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2010",
+            "n_parents": 1,
+            "id": 158,
+            "x": 1089.2569803240924,
+            "y": 545.4545454545455
+        },
+        {
+            "title": "Random forests",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1507.06105",
+            "depth": 2,
+            "year": "2001",
+            "n_parents": 1,
+            "id": 159,
+            "x": 1099.6104506779366,
+            "y": 545.4545454545455
+        },
+        {
+            "title": "Probabilistic interpretation of feedforward classification network outputs, with relationships to statistical pattern recognition",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "1990",
+            "n_parents": 1,
+            "id": 160,
+            "x": 1109.963921031781,
+            "y": 545.4545454545455
+        },
+        {
+            "title": "Toward a connectionist model of recursion in human linguistic performance",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "1999",
+            "n_parents": 1,
+            "id": 161,
+            "x": 902.8945139548963,
+            "y": 545.4545454545455
+        },
+        {
+            "title": "Gated feedback recurrent neural networks",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1502.02367",
+            "depth": 2,
+            "year": "2015",
+            "n_parents": 1,
+            "id": 162,
+            "x": 913.2479843087405,
+            "y": 545.4545454545455
+        },
+        {
+            "title": "High performance neural networks for visual object classification",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1102.0183",
+            "depth": 2,
+            "year": "2011",
+            "n_parents": 1,
+            "id": 163,
+            "x": 923.6014546625847,
+            "y": 545.4545454545455
+        },
+        {
+            "title": "Mechanisms for sentence processing",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "1996",
+            "n_parents": 1,
+            "id": 164,
+            "x": 933.954925016429,
+            "y": 545.4545454545455
+        },
+        {
+            "title": "Context dependent pre trained deep neural networks for large vocabulary speech recognition",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2012",
+            "n_parents": 3,
+            "id": 165,
+            "x": 1614.566182402264,
+            "y": 750.0000000000001
+        },
+        {
+            "title": "Finding structure in time",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "1990",
+            "n_parents": 2,
+            "id": 166,
+            "x": 382.6326286742238,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Context free parsing in connectionist networks",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "1994",
+            "n_parents": 1,
+            "id": 167,
+            "x": 944.3083953702732,
+            "y": 545.4545454545455
+        },
+        {
+            "title": "Lstm recurrent networks learn simple context free and context sensitive languages",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2001",
+            "n_parents": 2,
+            "id": 168,
+            "x": 749.0304406408223,
+            "y": 545.4545454545455
+        },
+        {
+            "title": "A recurrent network that performs a context sensitive prediction task",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "1996",
+            "n_parents": 2,
+            "id": 169,
+            "x": 876.7232416715678,
+            "y": 545.4545454545455
+        },
+        {
+            "title": "Designing a counter: Another case study of dynamics and activation landscapes in recurrent networks",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "1997",
+            "n_parents": 1,
+            "id": 170,
+            "x": 954.6618657241174,
+            "y": 545.4545454545455
+        },
+        {
+            "title": "Imagenet classification with deep convolutional neural networks",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2012",
+            "n_parents": 4,
+            "id": 171,
+            "x": 621.0500432113589,
+            "y": 750.0000000000001
+        },
+        {
+            "title": "Gradient based learning applied to document recognition",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 2,
+            "id": 172,
+            "x": 1082.4984649542218,
+            "y": 750.0000000000001
+        },
+        {
+            "title": "Statistical language models based on neural networks",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2012",
+            "n_parents": 4,
+            "id": 173,
+            "x": 1092.851935308066,
+            "y": 750.0000000000001
+        },
+        {
+            "title": "Perceptrons",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1306.4375",
+            "depth": 2,
+            "year": "1969",
+            "n_parents": 1,
+            "id": 174,
+            "x": 965.0153360779616,
+            "y": 545.4545454545455
+        },
+        {
+            "title": "The induction of dynamical recognizers",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "1991",
+            "n_parents": 1,
+            "id": 175,
+            "x": 975.3688064318059,
+            "y": 545.4545454545455
+        },
+        {
+            "title": "Hogwild: A lock free approach to parallelizing stochastic gradient descent",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1106.5730",
+            "depth": 2,
+            "year": "2011",
+            "n_parents": 1,
+            "id": 176,
+            "x": 985.7222767856501,
+            "y": 545.4545454545455
+        },
+        {
+            "title": "A recurrent neural network that learns to count",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "1999",
+            "n_parents": 1,
+            "id": 177,
+            "x": 996.0757471394943,
+            "y": 545.4545454545455
+        },
+        {
+            "title": "Learning internal representations by error propagation",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "1985",
+            "n_parents": 1,
+            "id": 178,
+            "x": 1006.4292174933386,
+            "y": 545.4545454545455
+        },
+        {
+            "title": "Fractal encoding of context free grammars in connectionist networks",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2000",
+            "n_parents": 1,
+            "id": 179,
+            "x": 1016.7826878471828,
+            "y": 545.4545454545455
+        },
+        {
+            "title": "Generalization of backpropagation with application to a recurrent gas market model",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "1988",
+            "n_parents": 1,
+            "id": 180,
+            "x": 1027.136158201027,
+            "y": 545.4545454545455
+        },
+        {
+            "title": "Learning to count without a counter: A case study of dynamics and activation landscapes in recurrent networks",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "1995",
+            "n_parents": 1,
+            "id": 181,
+            "x": 1037.4896285548712,
+            "y": 545.4545454545455
+        },
+        {
+            "title": "Gradient based learning algorithms for recurrent networks and their computational complexity",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "1995",
+            "n_parents": 1,
+            "id": 182,
+            "x": 1047.8430989087155,
+            "y": 545.4545454545455
+        },
+        {
+            "title": "Discrete recurrent neural networks for grammatical inference",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "1994",
+            "n_parents": 2,
+            "id": 183,
+            "x": 887.076712025412,
+            "y": 545.4545454545455
+        },
+        {
+            "title": "Learning regaular sets from queries and counterexamples",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 184,
+            "x": 1579.479421758681,
+            "y": 477.2727272727273
+        },
+        {
+            "title": "URL http://arxiv",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 16,
+            "id": 185,
+            "x": 1589.832892112525,
+            "y": 477.2727272727273
+        },
+        {
+            "title": "Automatic Structures",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1710.01802",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 186,
+            "x": 1496.651658927927,
+            "y": 477.2727272727273
+        },
+        {
+            "title": "Listen, attend and spell",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1508.01211",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 3,
+            "id": 187,
+            "x": 1336.7336814208413,
+            "y": 477.2727272727273
+        },
+        {
+            "title": "Empirical evaluation of gated recurrent neural networks on sequence modeling",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1412.3555",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 188,
+            "x": 1507.0051292817711,
+            "y": 477.2727272727273
+        },
+        {
+            "title": "8 \fPublished as a conference paper at ICLR 2016 Grefenstette, Edward, Hermann, Karl Moritz, Suleyman, Mustafa, and Blunsom, Learning to transduce with unbounded memory",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 189,
+            "x": 1517.3585996356155,
+            "y": 477.2727272727273
+        },
+        {
+            "title": "http://arxiv",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 2,
+            "id": 190,
+            "x": 1527.7120699894597,
+            "y": 477.2727272727273
+        },
+        {
+            "title": "Dimensions in program synthesis",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 191,
+            "x": 1538.0655403433038,
+            "y": 477.2727272727273
+        },
+        {
+            "title": "Inductive programming: A survey of program synthesis techniques",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 2,
+            "id": 192,
+            "x": 1611.1150256176493,
+            "y": 477.2727272727273
+        },
+        {
+            "title": "Imagenet classification with deep convolutional neural network",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 193,
+            "x": 1548.4190106971482,
+            "y": 477.2727272727273
+        },
+        {
+            "title": "Variable rate image compression with recurrent neural networks",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1511.06085",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 194,
+            "x": 1558.7724810509924,
+            "y": 477.2727272727273
+        },
+        {
+            "title": "An Introduction to cellular automata",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 195,
+            "x": 1569.1259514048365,
+            "y": 477.2727272727273
+        },
+        {
+            "title": "Bayesian learning via stochastic gradient Langevin dynamics",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 2,
+            "id": 196,
+            "x": 1480.8338569984428,
+            "y": 477.2727272727273
+        },
+        {
+            "title": "Curriculum learning",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1707.00183",
+            "depth": 2,
+            "year": "2009",
+            "n_parents": 2,
+            "id": 197,
+            "x": 1257.2132771753431,
+            "y": 681.8181818181819
+        },
+        {
+            "title": "Grid long short term memory",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1507.01526",
+            "depth": 2,
+            "year": "2015",
+            "n_parents": 1,
+            "id": 198,
+            "x": 1304.522884764437,
+            "y": 477.2727272727273
+        },
+        {
+            "title": "Adam: A method for stochastic optimization",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1412.6980",
+            "depth": 2,
+            "year": "2014",
+            "n_parents": 5,
+            "id": 199,
+            "x": 1200.556786627918,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Rectified linear units improve restricted boltzmann machines",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2010",
+            "n_parents": 1,
+            "id": 200,
+            "x": 1283.8159440567485,
+            "y": 477.2727272727273
+        },
+        {
+            "title": "A formal theory of inductive inference. part i",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "1964",
+            "n_parents": 1,
+            "id": 201,
+            "x": 1294.1694144105927,
+            "y": 477.2727272727273
+        },
+        {
+            "title": "Pointer networks",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1506.03134",
+            "depth": 2,
+            "year": "2015",
+            "n_parents": 2,
+            "id": 202,
+            "x": 1232.4799868856041,
+            "y": 477.2727272727273
+        },
+        {
+            "title": "Reinforcement learning neural turing machines",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1505.00521",
+            "depth": 2,
+            "year": "2015",
+            "n_parents": 2,
+            "id": 203,
+            "x": 1222.12651653176,
+            "y": 477.2727272727273
+        },
+        {
+            "title": "N gram counts and language models from the common crawl",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 204,
+            "x": 849.9767765908035,
+            "y": 545.4545454545455
+        },
+        {
+            "title": "Measuring word alignment quality for statistical machine translation",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 205,
+            "x": 818.9163655292708,
+            "y": 545.4545454545455
+        },
+        {
+            "title": "DRAW: A recurrent neural network for image generation",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1502.04623",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 206,
+            "x": 829.2698358831151,
+            "y": 545.4545454545455
+        },
+        {
+            "title": "On using very large target vocabulary for neural machine translation",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1412.2007",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 2,
+            "id": 207,
+            "x": 627.3771639831526,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Alignment by agreement",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 208,
+            "x": 839.6233062369593,
+            "y": 545.4545454545455
+        },
+        {
+            "title": "Addressing the rare word problem in neural machine translation",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1410.8206",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 3,
+            "id": 209,
+            "x": 617.0236936293084,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Recurrent models of visual attention",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1406.6247",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 2,
+            "id": 210,
+            "x": 1060.7849368510208,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Bleu: a method for automatic evaluation of machine translation",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 2,
+            "id": 211,
+            "x": 1072.1449946003777,
+            "y": 750.0000000000001
+        },
+        {
+            "title": "Recurrent neural network regularization",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1409.2329",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 3,
+            "id": 212,
+            "x": 1063.0857080407638,
+            "y": 681.8181818181819
+        },
+        {
+            "title": "Learning to compose neural networks for question answering",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1601.01705",
+            "depth": 2,
+            "year": "2016",
+            "n_parents": 1,
+            "id": 213,
+            "x": 890.8154652087446,
+            "y": 340.90909090909093
+        },
+        {
+            "title": "End to end attention based large vocabulary speech recognition",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1508.04395",
+            "depth": 2,
+            "year": "2015",
+            "n_parents": 1,
+            "id": 214,
+            "x": 901.1689355625889,
+            "y": 340.90909090909093
+        },
+        {
+            "title": "Question answering with subgraph embeddings",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1406.3676",
+            "depth": 2,
+            "year": "2014",
+            "n_parents": 1,
+            "id": 215,
+            "x": 911.5224059164332,
+            "y": 340.90909090909093
+        },
+        {
+            "title": "Functional imaging of numerical processing in adults and 4 y old children",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2006",
+            "n_parents": 1,
+            "id": 216,
+            "x": 921.8758762702773,
+            "y": 340.90909090909093
+        },
+        {
+            "title": "Driving semantic parsing from the world's response",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2010",
+            "n_parents": 1,
+            "id": 217,
+            "x": 932.2293466241216,
+            "y": 340.90909090909093
+        },
+        {
+            "title": "Using prior knowledge in an NNPDA to learn context free languages",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 218,
+            "x": 942.5828169779658,
+            "y": 340.90909090909093
+        },
+        {
+            "title": "Numerical processing in the human parietal cortex during experimental and natural conditions",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2013",
+            "n_parents": 1,
+            "id": 219,
+            "x": 952.93628733181,
+            "y": 340.90909090909093
+        },
+        {
+            "title": "Reading to learn: Constructing features from semantic abstracts",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2009",
+            "n_parents": 1,
+            "id": 220,
+            "x": 963.2897576856543,
+            "y": 340.90909090909093
+        },
+        {
+            "title": "Processing of abstract ordinal knowledge in the horizontal segment of the intraparietal sulcus",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2007",
+            "n_parents": 1,
+            "id": 221,
+            "x": 973.6432280394985,
+            "y": 340.90909090909093
+        },
+        {
+            "title": "Deep Speech: Scaling up end to end speech recognition",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1412.5567",
+            "depth": 2,
+            "year": "2014",
+            "n_parents": 1,
+            "id": 222,
+            "x": 983.9966983933427,
+            "y": 340.90909090909093
+        },
+        {
+            "title": "Teaching machines to read and comprehend",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1506.03340",
+            "depth": 2,
+            "year": "2015",
+            "n_parents": 1,
+            "id": 223,
+            "x": 994.350168747187,
+            "y": 340.90909090909093
+        },
+        {
+            "title": "Deep neural networks for acoustic modeling in speech recognition",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2012",
+            "n_parents": 2,
+            "id": 224,
+            "x": 610.5527746581557,
+            "y": 750.0000000000001
+        },
+        {
+            "title": "Robust estimation of a location parameter",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "1964",
+            "n_parents": 1,
+            "id": 225,
+            "x": 1004.7036391010312,
+            "y": 340.90909090909093
+        },
+        {
+            "title": "A neural network for factoid question answering over paragraphs",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2014",
+            "n_parents": 1,
+            "id": 226,
+            "x": 1015.0571094548754,
+            "y": 340.90909090909093
+        },
+        {
+            "title": "Impaired neural networks for approximate calculation in dyscalculic children: a functional mri study",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2006",
+            "n_parents": 1,
+            "id": 227,
+            "x": 1025.4105798087196,
+            "y": 340.90909090909093
+        },
+        {
+            "title": "Ask me anything: Dynamic memory networks for natural language processing",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1506.07285",
+            "depth": 2,
+            "year": "2015",
+            "n_parents": 1,
+            "id": 228,
+            "x": 1035.764050162564,
+            "y": 340.90909090909093
+        },
+        {
+            "title": "Learning programs: A hierarchical Bayesian approach",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2010",
+            "n_parents": 2,
+            "id": 229,
+            "x": 776.6396949177403,
+            "y": 340.90909090909093
+        },
+        {
+            "title": "Learning dependency based compositional semantics",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1109.6841",
+            "depth": 2,
+            "year": "2011",
+            "n_parents": 1,
+            "id": 230,
+            "x": 1046.1175205164081,
+            "y": 340.90909090909093
+        },
+        {
+            "title": "Modeling relation paths for representation learning of knowledge bases",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1506.00379",
+            "depth": 2,
+            "year": "2015",
+            "n_parents": 1,
+            "id": 231,
+            "x": 1056.4709908702523,
+            "y": 340.90909090909093
+        },
+        {
+            "title": "Compositional vector space models for knowledge base completion",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1504.06662",
+            "depth": 2,
+            "year": "2015",
+            "n_parents": 1,
+            "id": 232,
+            "x": 1066.8244612240965,
+            "y": 340.90909090909093
+        },
+        {
+            "title": "Compositional semantic parsing on semi structured tables",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1508.00305",
+            "depth": 2,
+            "year": "2015",
+            "n_parents": 1,
+            "id": 233,
+            "x": 1077.1779315779409,
+            "y": 340.90909090909093
+        },
+        {
+            "title": "Towards neural network based reasoning",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1508.05508",
+            "depth": 2,
+            "year": "2015",
+            "n_parents": 1,
+            "id": 234,
+            "x": 1087.531401931785,
+            "y": 340.90909090909093
+        },
+        {
+            "title": "A Bayesian model of the acquisition of compositional semantics",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2008",
+            "n_parents": 1,
+            "id": 235,
+            "x": 1097.8848722856292,
+            "y": 340.90909090909093
+        },
+        {
+            "title": "Tuning curves for approximate numerosity in the human intraparietal sulcus",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2004",
+            "n_parents": 1,
+            "id": 236,
+            "x": 1108.2383426394736,
+            "y": 340.90909090909093
+        },
+        {
+            "title": "Grounded unsupervised semantic parsing",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2013",
+            "n_parents": 1,
+            "id": 237,
+            "x": 1118.5918129933177,
+            "y": 340.90909090909093
+        },
+        {
+            "title": "A self referentialweight matrix",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "1993",
+            "n_parents": 1,
+            "id": 238,
+            "x": 1128.9452833471619,
+            "y": 340.90909090909093
+        },
+        {
+            "title": "Neural responding machine for short text conversation",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1503.02364",
+            "depth": 2,
+            "year": "2015",
+            "n_parents": 1,
+            "id": 239,
+            "x": 1139.2987537010063,
+            "y": 340.90909090909093
+        },
+        {
+            "title": "A neural conversational model",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1506.05869",
+            "depth": 2,
+            "year": "2015",
+            "n_parents": 1,
+            "id": 240,
+            "x": 1149.6522240548504,
+            "y": 340.90909090909093
+        },
+        {
+            "title": "Show and tell: A neural image caption generator",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1411.4555",
+            "depth": 2,
+            "year": "2015",
+            "n_parents": 4,
+            "id": 241,
+            "x": 584.8128969729041,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Building a semantic parser overnight",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2015",
+            "n_parents": 1,
+            "id": 242,
+            "x": 1160.0056944086946,
+            "y": 340.90909090909093
+        },
+        {
+            "title": "Backpropagation through time: what does it do and how to do it",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "1990",
+            "n_parents": 1,
+            "id": 243,
+            "x": 1170.359164762539,
+            "y": 340.90909090909093
+        },
+        {
+            "title": "Neural enquirer: Learning to query tables with natural language",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1512.00965",
+            "depth": 2,
+            "year": "2015",
+            "n_parents": 1,
+            "id": 244,
+            "x": 1180.7126351163831,
+            "y": 340.90909090909093
+        },
+        {
+            "title": "Learning to parse database queries using inductive logic programming",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "1996",
+            "n_parents": 1,
+            "id": 245,
+            "x": 1191.0661054702273,
+            "y": 340.90909090909093
+        },
+        {
+            "title": "Learning to map sentences to logical form: Structured classification with probabilistic categorial grammars",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1207.1420",
+            "depth": 2,
+            "year": "2005",
+            "n_parents": 1,
+            "id": 246,
+            "x": 1201.4195758240717,
+            "y": 340.90909090909093
+        },
+        {
+            "title": "PHOG: probabilistic model for code",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2016",
+            "n_parents": 1,
+            "id": 247,
+            "x": 809.4256843715802,
+            "y": 136.36363636363637
+        },
+        {
+            "title": "On the naturalness of software",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2016",
+            "n_parents": 1,
+            "id": 248,
+            "x": 819.7791547254245,
+            "y": 136.36363636363637
+        },
+        {
+            "title": "Bidirectional recursive neural networks for token level labeling with structure",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1312.0493",
+            "depth": 2,
+            "year": "2013",
+            "n_parents": 1,
+            "id": 249,
+            "x": 830.1326250792688,
+            "y": 136.36363636363637
+        },
+        {
+            "title": "The inside outside recursive neural network model for dependency parsing",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2014",
+            "n_parents": 1,
+            "id": 250,
+            "x": 840.486095433113,
+            "y": 136.36363636363637
+        },
+        {
+            "title": "Structured generative models of natural source code",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1401.0514",
+            "depth": 2,
+            "year": "2014",
+            "n_parents": 2,
+            "id": 251,
+            "x": 745.7230820555665,
+            "y": 681.8181818181819
+        },
+        {
+            "title": "Global belief recursive neural networks",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2014",
+            "n_parents": 1,
+            "id": 252,
+            "x": 850.8395657869572,
+            "y": 136.36363636363637
+        },
+        {
+            "title": "Predicting program properties from \"big code\"",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2015",
+            "n_parents": 1,
+            "id": 253,
+            "x": 861.1930361408015,
+            "y": 136.36363636363637
+        },
+        {
+            "title": "Synthesizing data structure manipulations from storyboards",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2011",
+            "n_parents": 1,
+            "id": 254,
+            "x": 871.5465064946457,
+            "y": 136.36363636363637
+        },
+        {
+            "title": "Neural reuse: A fundamental organizational principle of the brain",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2010",
+            "n_parents": 1,
+            "id": 255,
+            "x": 1209.0408803900957,
+            "y": 409.0909090909091
+        },
+        {
+            "title": "Programmable reinforcement learning agents",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2001",
+            "n_parents": 1,
+            "id": 256,
+            "x": 1219.39435074394,
+            "y": 409.0909090909091
+        },
+        {
+            "title": "\\Genetic programming: An introduction, volume~1",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "1998",
+            "n_parents": 1,
+            "id": 257,
+            "x": 1229.7478210977843,
+            "y": 409.0909090909091
+        },
+        {
+            "title": "Hierarchical reinforcement learning with the MAXQ value function decomposition",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/9905014",
+            "depth": 2,
+            "year": "2000",
+            "n_parents": 1,
+            "id": 258,
+            "x": 1240.1012914516284,
+            "y": 409.0909090909091
+        },
+        {
+            "title": "Programming in the brain: A neural network theoretical framework",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2012",
+            "n_parents": 1,
+            "id": 259,
+            "x": 1250.4547618054728,
+            "y": 409.0909090909091
+        },
+        {
+            "title": "A programmer\u2013interpreter neural network architecture for prefrontal cognitive control",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2015",
+            "n_parents": 1,
+            "id": 260,
+            "x": 1260.808232159317,
+            "y": 409.0909090909091
+        },
+        {
+            "title": "3D object detection and viewpoint estimation with a deformable 3D cuboid model",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2012",
+            "n_parents": 1,
+            "id": 261,
+            "x": 1276.6260340888011,
+            "y": 409.0909090909091
+        },
+        {
+            "title": "Hierarchical apprenticeship learning with application to quadruped locomotion",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2008",
+            "n_parents": 1,
+            "id": 262,
+            "x": 1095.1527064978093,
+            "y": 409.0909090909091
+        },
+        {
+            "title": "Catastrophic interference in connectionist networks: The sequential learning problem",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "1989",
+            "n_parents": 1,
+            "id": 263,
+            "x": 1105.5061768516534,
+            "y": 409.0909090909091
+        },
+        {
+            "title": "Building program vector representations for deep learning",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1409.3358",
+            "depth": 2,
+            "year": "2014",
+            "n_parents": 2,
+            "id": 264,
+            "x": 1246.859806821499,
+            "y": 681.8181818181819
+        },
+        {
+            "title": "Complementary learning systems",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1905.02636",
+            "depth": 2,
+            "year": "2014",
+            "n_parents": 1,
+            "id": 265,
+            "x": 1115.8596472054978,
+            "y": 409.0909090909091
+        },
+        {
+            "title": "Modular inverse reinforcement learning for visuomotor behavior",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2013",
+            "n_parents": 1,
+            "id": 266,
+            "x": 1126.213117559342,
+            "y": 409.0909090909091
+        },
+        {
+            "title": "Parallel distributed processing: Explorations in the microstructure of cognition, vol. 1",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "1986",
+            "n_parents": 1,
+            "id": 267,
+            "x": 1136.5665879131861,
+            "y": 409.0909090909091
+        },
+        {
+            "title": "Universal value function approximators",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2015",
+            "n_parents": 1,
+            "id": 268,
+            "x": 1146.9200582670303,
+            "y": 409.0909090909091
+        },
+        {
+            "title": "Learning to control fast weight memories: An alternative to dynamic recurrent networks",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "1992",
+            "n_parents": 1,
+            "id": 269,
+            "x": 1157.2735286208747,
+            "y": 409.0909090909091
+        },
+        {
+            "title": "Controlled and automatic processing: behavior, theory, and biological mechanisms",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2003",
+            "n_parents": 1,
+            "id": 270,
+            "x": 1167.6269989747188,
+            "y": 409.0909090909091
+        },
+        {
+            "title": "Learning options through human interaction",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2011",
+            "n_parents": 1,
+            "id": 271,
+            "x": 1177.980469328563,
+            "y": 409.0909090909091
+        },
+        {
+            "title": "Using matrices to model symbolic relationship",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2009",
+            "n_parents": 1,
+            "id": 272,
+            "x": 1188.3339396824074,
+            "y": 409.0909090909091
+        },
+        {
+            "title": "Between MDPs and semi MDPs: A framework for temporal abstraction in reinforcement learning",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "1999",
+            "n_parents": 1,
+            "id": 273,
+            "x": 1198.6874100362515,
+            "y": 409.0909090909091
+        },
+        {
+            "title": "URL \\urlhttp://tensorflow.org/",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2015",
+            "n_parents": 1,
+            "id": 274,
+            "x": 1429.4835200073626,
+            "y": 272.72727272727275
+        },
+        {
+            "title": "Recursive program synthesis",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2013",
+            "n_parents": 1,
+            "id": 275,
+            "x": 1439.8513701811428,
+            "y": 272.72727272727275
+        },
+        {
+            "title": "Neural module networks",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1511.02799",
+            "depth": 2,
+            "year": "2016",
+            "n_parents": 1,
+            "id": 276,
+            "x": 1450.204840534987,
+            "y": 272.72727272727275
+        },
+        {
+            "title": "Learning to generate textual data",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2016",
+            "n_parents": 1,
+            "id": 277,
+            "x": 1466.0226424644711,
+            "y": 272.72727272727275
+        },
+        {
+            "title": "\\Starting Forth",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "1980",
+            "n_parents": 1,
+            "id": 278,
+            "x": 1476.3761128183153,
+            "y": 272.72727272727275
+        },
+        {
+            "title": "A Neural compiler",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "1995",
+            "n_parents": 1,
+            "id": 279,
+            "x": 1486.7295831721597,
+            "y": 272.72727272727275
+        },
+        {
+            "title": "Symbolic Execution and Program Testing",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "1976",
+            "n_parents": 1,
+            "id": 280,
+            "x": 1497.0830535260038,
+            "y": 272.72727272727275
+        },
+        {
+            "title": "Parsing Algebraic Word Problems into Equations",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2015",
+            "n_parents": 1,
+            "id": 281,
+            "x": 1507.436523879848,
+            "y": 272.72727272727275
+        },
+        {
+            "title": "\\Genetic Programming: On the Programming of Computers by Means of Natural Selection, volume~1",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "1992",
+            "n_parents": 1,
+            "id": 282,
+            "x": 1517.7899942336924,
+            "y": 272.72727272727275
+        },
+        {
+            "title": "Learning to Automatically Solve Algebra Word Problems",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2014",
+            "n_parents": 1,
+            "id": 283,
+            "x": 1528.1434645875365,
+            "y": 272.72727272727275
+        },
+        {
+            "title": "Learning repetitive text editing procedures with smartedit",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2001",
+            "n_parents": 1,
+            "id": 284,
+            "x": 1538.4969349413807,
+            "y": 272.72727272727275
+        },
+        {
+            "title": "Gradient based Hyperparameter Optimization through Reversible Learning",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1502.03492",
+            "depth": 2,
+            "year": "2015",
+            "n_parents": 1,
+            "id": 285,
+            "x": 1548.850405295225,
+            "y": 272.72727272727275
+        },
+        {
+            "title": "Toward automatic program synthesis",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "1971",
+            "n_parents": 1,
+            "id": 286,
+            "x": 1559.2038756490692,
+            "y": 272.72727272727275
+        },
+        {
+            "title": "\\Evolutionary Program Induction of Binary Machine Code and its Applications",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "1997",
+            "n_parents": 1,
+            "id": 287,
+            "x": 1569.5573460029134,
+            "y": 272.72727272727275
+        },
+        {
+            "title": "Solving General Arithmetic Word Problems",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1608.01413",
+            "depth": 2,
+            "year": "2015",
+            "n_parents": 1,
+            "id": 288,
+            "x": 1579.9108163567578,
+            "y": 272.72727272727275
+        },
+        {
+            "title": "Reasoning about quantities in natural language",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2015",
+            "n_parents": 1,
+            "id": 289,
+            "x": 1408.776579299674,
+            "y": 272.72727272727275
+        },
+        {
+            "title": "Neural Programming Language",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "1994",
+            "n_parents": 1,
+            "id": 290,
+            "x": 1419.1300496535182,
+            "y": 272.72727272727275
+        },
+        {
+            "title": "Joint language and translation modeling with recurrent neural networks",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2013",
+            "n_parents": 1,
+            "id": 291,
+            "x": 1041.084583538845,
+            "y": 750.0000000000001
+        },
+        {
+            "title": "Multi column deep neural networks for image classification",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1202.2745",
+            "depth": 2,
+            "year": "2012",
+            "n_parents": 1,
+            "id": 292,
+            "x": 1051.4380538926891,
+            "y": 750.0000000000001
+        },
+        {
+            "title": "Edinburgh's phrase based machine translation systems for wmt 14",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2014",
+            "n_parents": 1,
+            "id": 293,
+            "x": 1061.7915242465333,
+            "y": 750.0000000000001
+        },
+        {
+            "title": "Connectionist temporal classification: labelling unsegmented sequence data with recurrent neural networks",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2006",
+            "n_parents": 1,
+            "id": 294,
+            "x": 958.2568207080911,
+            "y": 750.0000000000001
+        },
+        {
+            "title": "Untersuchungen zu dynamischen neuronalen netzen",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "1991",
+            "n_parents": 1,
+            "id": 295,
+            "x": 968.6102910619353,
+            "y": 750.0000000000001
+        },
+        {
+            "title": "LSTM can solve hard long time lag problems",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 296,
+            "x": 978.9637614157796,
+            "y": 750.0000000000001
+        },
+        {
+            "title": "Building high level features using large scale unsupervised learning",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1112.6209",
+            "depth": 2,
+            "year": "2012",
+            "n_parents": 1,
+            "id": 297,
+            "x": 989.3172317696238,
+            "y": 750.0000000000001
+        },
+        {
+            "title": "Recurrent neural network based language model",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2010",
+            "n_parents": 2,
+            "id": 298,
+            "x": 1103.2054056619104,
+            "y": 750.0000000000001
+        },
+        {
+            "title": "On small depth threshold circuits",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "1992",
+            "n_parents": 1,
+            "id": 299,
+            "x": 999.670702123468,
+            "y": 750.0000000000001
+        },
+        {
+            "title": "Learning representations by back propagating errors",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "1986",
+            "n_parents": 2,
+            "id": 300,
+            "x": 398.594228803067,
+            "y": 750.0000000000001
+        },
+        {
+            "title": "University le mans",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2014",
+            "n_parents": 1,
+            "id": 301,
+            "x": 1010.0241724773123,
+            "y": 750.0000000000001
+        },
+        {
+            "title": "LSTM neural networks for language modeling",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2010",
+            "n_parents": 1,
+            "id": 302,
+            "x": 1020.3776428311564,
+            "y": 750.0000000000001
+        },
+        {
+            "title": "Backpropagation through time: what it does and how to do it",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "1990",
+            "n_parents": 1,
+            "id": 303,
+            "x": 1030.7311131850008,
+            "y": 750.0000000000001
+        },
+        {
+            "title": "The Meaning Factory: Formal semantics for recognizing textual entailment and determining semantic similarity",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 304,
+            "x": 33.77532106542962,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "A convolutional neural network for modelling sentences",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1404.2188",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 305,
+            "x": 44.12879141927385,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "A fast and accurate dependency parser using neural networks",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 306,
+            "x": 59.94659334875809,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Natural language processing (almost) from scratch",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1103.0398",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 307,
+            "x": 75.76439527824233,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Adaptive subgradient methods for online learning and stochastic optimization",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 308,
+            "x": 86.11786563208656,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "The measurement of textual coherence with latent semantic analysis",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 309,
+            "x": 96.47133598593079,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "PPDB: The Paraphrase Database",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 310,
+            "x": 106.82480633977502,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Learning task dependent distributed representations by backpropagation through structure",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 311,
+            "x": 117.17827669361925,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Multi step regression learning for compositional distributional semantics",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1301.6939",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 312,
+            "x": 127.53174704746348,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Improving neural networks by preventing co adaptation of feature detectors",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1207.0580",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 313,
+            "x": 137.8852174013077,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "The vanishing gradient problem during learning recurrent neural nets and problem solutions",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 314,
+            "x": 148.24156371913912,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Improving word representations via global context and multiple word prototypes",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 315,
+            "x": 158.59503407298337,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Deep recursive neural networks for compositionality in language",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 316,
+            "x": 168.94850442682758,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "UNAL NLP: Combining soft cardinality features for semantic textual similarity, relatedness and entailment",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 317,
+            "x": 179.30197478067183,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Convolutional neural networks for sentence classification",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1408.5882",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 318,
+            "x": 189.65544513451604,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Accurate unlexicalized parsing",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 2,
+            "id": 319,
+            "x": 324.8257525319268,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Illinois lh: A denotational and distributional approach to semantics",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 320,
+            "x": 200.0089154883603,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "A solution to plato's problem: The latent semantic analysis theory of acquisition, induction, and representation of knowledge",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 321,
+            "x": 210.3623858422045,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Distributed representations of sentences and documents",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1405.4053",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 322,
+            "x": 220.71585619604875,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Distributed representations of words and phrases and their compositionality",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1310.4546",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 323,
+            "x": 231.06932654989296,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Composition in distributional models of semantics",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 324,
+            "x": 241.4227969037372,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Glove: Global vectors for word representation",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 325,
+            "x": 251.77626725758142,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Grounded compositional semantics for finding and describing images with sentences",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 326,
+            "x": 262.12973761142564,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Parsing natural scenes and natural language with recursive neural networks",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 2,
+            "id": 327,
+            "x": 314.4722821780826,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Recursive deep models for semantic compositionality over a sentiment treebank",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 328,
+            "x": 272.4832079652699,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Modeling documents with deep boltzmann machines",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1309.6865",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 329,
+            "x": 282.8366783191141,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Word representations: a simple and general method for semi supervised learning",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 330,
+            "x": 293.19014867295834,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Compositional matrix space models for sentiment analysis",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 331,
+            "x": 13.067948963143083,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "ECNU: One stone two birds: Ensemble of heterogenous measures for semantic relatedness and textual entailment",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 332,
+            "x": 23.42185071158539,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Efficient estimation of word representations in vector space",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1301.3781",
+            "depth": 2,
+            "year": "2013",
+            "n_parents": 1,
+            "id": 333,
+            "x": 424.0465100896007,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Ontonotes: The 90\\% solution",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2006",
+            "n_parents": 1,
+            "id": 334,
+            "x": 434.3999804434449,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Questionbank: Creating a corpus of parse annotated questions",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2006",
+            "n_parents": 1,
+            "id": 335,
+            "x": 444.75345079728913,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Building a large annotated corpus of english: The penn treebank",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "1993",
+            "n_parents": 1,
+            "id": 336,
+            "x": 455.1069211511334,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Ambiguity aware ensemble training for semi supervised dependency parsing",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2014",
+            "n_parents": 1,
+            "id": 337,
+            "x": 465.4603915049776,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Learning accurate, compact, and interpretable tree annotation",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2006",
+            "n_parents": 1,
+            "id": 338,
+            "x": 475.81386185882184,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Fast and accurate shift reduce constituent parsing",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2013",
+            "n_parents": 1,
+            "id": 339,
+            "x": 486.16733221266605,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Products of random latent variable grammars",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2010",
+            "n_parents": 1,
+            "id": 340,
+            "x": 496.5208025665103,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Self training PCFG grammars with latent annotations across languages",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2009",
+            "n_parents": 1,
+            "id": 341,
+            "x": 506.87427292035454,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Effective self training for parsing",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2006",
+            "n_parents": 1,
+            "id": 342,
+            "x": 517.2277432741988,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Self training with products of latent variable grammars",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2010",
+            "n_parents": 1,
+            "id": 343,
+            "x": 527.581213628043,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Sparser, better, faster gpu parsing",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2014",
+            "n_parents": 1,
+            "id": 344,
+            "x": 537.9346839818872,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Three generative, lexicalised models for statistical parsing",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/9706022",
+            "depth": 2,
+            "year": "1997",
+            "n_parents": 1,
+            "id": 345,
+            "x": 548.2881543357314,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Inducing history representations for broad coverage statistical parsing",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2003",
+            "n_parents": 1,
+            "id": 346,
+            "x": 558.6416246895757,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Discriminative training of a neural network statistical parser",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2004",
+            "n_parents": 1,
+            "id": 347,
+            "x": 568.99509504342,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Constituent parsing with incremental sigmoid belief networks",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2007",
+            "n_parents": 1,
+            "id": 348,
+            "x": 351.5722176126911,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Deep learning for efficient discriminative parsing",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2011",
+            "n_parents": 1,
+            "id": 349,
+            "x": 361.9256879665353,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "A linear observed time statistical parser based on maximum entropy models",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/9706014",
+            "depth": 2,
+            "year": "1997",
+            "n_parents": 1,
+            "id": 350,
+            "x": 372.27915832037957,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Incremental parsing with the perceptron algorithm",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2004",
+            "n_parents": 1,
+            "id": 351,
+            "x": 392.986099028068,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "End to end continuous speech recognition using attention based recurrent nn: First results",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1412.1602",
+            "depth": 2,
+            "year": "2014",
+            "n_parents": 1,
+            "id": 352,
+            "x": 403.3395693819122,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "A neural network for learning how to parse tree adjoining grammar",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "1990",
+            "n_parents": 1,
+            "id": 353,
+            "x": 413.6930397357565,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Multiple object recognition with visual attention",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1412.7755",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 354,
+            "x": 992.6245903548796,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "The dropout learning algorithm",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2014",
+            "n_parents": 1,
+            "id": 355,
+            "x": 1002.9780607087238,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Learning a recurrent visual representation for image caption generation",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1411.5654",
+            "depth": 2,
+            "year": "2014",
+            "n_parents": 1,
+            "id": 356,
+            "x": 1013.331531062568,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Control of goal directed and stimulus driven attention in the brain",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2002",
+            "n_parents": 1,
+            "id": 357,
+            "x": 1023.6850014164123,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Learning where to attend with deep architectures for image tracking",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1109.3737",
+            "depth": 2,
+            "year": "2012",
+            "n_parents": 1,
+            "id": 358,
+            "x": 1039.5028033458966,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Meteor universal: Language specific translation evaluation for any target language",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2014",
+            "n_parents": 1,
+            "id": 359,
+            "x": 697.2630888716011,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Long term recurrent convolutional networks for visual recognition and description",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1411.4389",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 360,
+            "x": 707.6165592254454,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Image description using visual dependency representations",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2013",
+            "n_parents": 1,
+            "id": 361,
+            "x": 723.4343611549297,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "From captions to visual concepts and back",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1411.4952",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 362,
+            "x": 733.7878315087738,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Framing image description as a ranking task: Data, models and evaluation metrics",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2013",
+            "n_parents": 1,
+            "id": 363,
+            "x": 744.1413018626181,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Deep visual semantic alignments for generating image descriptions",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1412.2306",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 364,
+            "x": 754.4947722164623,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Multimodal neural language models",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1411.2539",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 365,
+            "x": 764.8482425703065,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Unifying visual semantic embeddings with multimodal neural language models",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1411.2539",
+            "depth": 2,
+            "year": "1411",
+            "n_parents": 1,
+            "id": 366,
+            "x": 775.2017129241508,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Babytalk: Understanding and generating simple image descriptions",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2013",
+            "n_parents": 1,
+            "id": 367,
+            "x": 785.555183277995,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Collective generation of natural image descriptions",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2012",
+            "n_parents": 1,
+            "id": 368,
+            "x": 795.9086536318392,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Treetalk: Composition and compression of trees for image descriptions",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2014",
+            "n_parents": 1,
+            "id": 369,
+            "x": 806.2621239856835,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Learning to combine foveal glimpses with a third order boltzmann machine",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2010",
+            "n_parents": 1,
+            "id": 370,
+            "x": 816.6155943395277,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Composing simple image descriptions using web scale n grams",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2011",
+            "n_parents": 1,
+            "id": 371,
+            "x": 826.9690646933719,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Microsoft coco: Common objects in context",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1405.0312",
+            "depth": 2,
+            "year": "2014",
+            "n_parents": 1,
+            "id": 372,
+            "x": 837.3225350472161,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Deep captioning with multimodal recurrent neural networks (m rnn)",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 373,
+            "x": 847.6760054010604,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Midge: Generating image descriptions from computer vision detections",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2012",
+            "n_parents": 1,
+            "id": 374,
+            "x": 858.0294757549046,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "The dynamic representation of scenes",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2000",
+            "n_parents": 1,
+            "id": 375,
+            "x": 868.3829461087488,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Very deep convolutional networks for large scale image recognition",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1409.1556",
+            "depth": 2,
+            "year": "2014",
+            "n_parents": 1,
+            "id": 376,
+            "x": 878.7364164625931,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Practical bayesian optimization of machine learning algorithms",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1206.2944",
+            "depth": 2,
+            "year": "2012",
+            "n_parents": 1,
+            "id": 377,
+            "x": 889.0898868164373,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Input warping for bayesian optimization of non stationary functions",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1402.0929",
+            "depth": 2,
+            "year": "2014",
+            "n_parents": 1,
+            "id": 378,
+            "x": 899.4433571702815,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Dropout: A simple way to prevent neural networks from overfitting",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2014",
+            "n_parents": 1,
+            "id": 379,
+            "x": 909.7968275241258,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Going deeper with convolutions",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1409.4842",
+            "depth": 2,
+            "year": "2014",
+            "n_parents": 1,
+            "id": 380,
+            "x": 920.1502978779699,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Learning generative models with visual attention",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1312.6110",
+            "depth": 2,
+            "year": "2014",
+            "n_parents": 1,
+            "id": 381,
+            "x": 930.5037682318142,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Lecture 6.5 rmsprop",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2012",
+            "n_parents": 1,
+            "id": 382,
+            "x": 940.8572385856585,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "The optimal reward baseline for gradient based reinforcement learning",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1301.2315",
+            "depth": 2,
+            "year": "2001",
+            "n_parents": 1,
+            "id": 383,
+            "x": 951.2107089395026,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Simple statistical gradient following algorithms for connectionist reinforcement learning",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "1992",
+            "n_parents": 1,
+            "id": 384,
+            "x": 961.5641792933469,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Corpus guided sentence generation of natural images",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2011",
+            "n_parents": 1,
+            "id": 385,
+            "x": 971.9176496471912,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "From image descriptions to visual denotations: New similarity metrics for semantic inference over event descriptions",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2014",
+            "n_parents": 1,
+            "id": 386,
+            "x": 982.2711200010353,
+            "y": 613.6363636363637
+        },
+        {
+            "title": "Advances in optimizing recurrent networks",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1212.0901",
+            "depth": 2,
+            "year": "2013",
+            "n_parents": 1,
+            "id": 387,
+            "x": 1137.2855789099808,
+            "y": 681.8181818181819
+        },
+        {
+            "title": "Can recursive neural tensor networks learn logical reasoning?",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1312.6192",
+            "depth": 2,
+            "year": "2013",
+            "n_parents": 1,
+            "id": 388,
+            "x": 1147.6390492638252,
+            "y": 681.8181818181819
+        },
+        {
+            "title": "Recursive neural networks for learning logical semantics",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2014",
+            "n_parents": 1,
+            "id": 389,
+            "x": 1157.9925196176694,
+            "y": 681.8181818181819
+        },
+        {
+            "title": "A statistical derivation of the significant digit law",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "1995",
+            "n_parents": 1,
+            "id": 390,
+            "x": 1168.3459899715135,
+            "y": 681.8181818181819
+        },
+        {
+            "title": "Optimization and applications of echo state networks with leaky integrator neurons",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2007",
+            "n_parents": 1,
+            "id": 391,
+            "x": 1178.699460325358,
+            "y": 681.8181818181819
+        },
+        {
+            "title": "Self paced learning for latent variable models",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2010",
+            "n_parents": 1,
+            "id": 392,
+            "x": 1189.052930679202,
+            "y": 681.8181818181819
+        },
+        {
+            "title": "Learning the easy things first: Self paced visual category discovery",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2011",
+            "n_parents": 1,
+            "id": 393,
+            "x": 1199.4064010330462,
+            "y": 681.8181818181819
+        },
+        {
+            "title": "Deep learning via hessian free optimization",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "2010",
+            "n_parents": 1,
+            "id": 394,
+            "x": 1209.7598713868906,
+            "y": 681.8181818181819
+        },
+        {
+            "title": "Dropout improves recurrent neural networks for handwriting recognition",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1312.4569",
+            "depth": 2,
+            "year": "2013",
+            "n_parents": 1,
+            "id": 395,
+            "x": 1220.1133417407348,
+            "y": 681.8181818181819
+        },
+        {
+            "title": "The use of recurrent neural networks in continuous speech recognition",
+            "color": "tomato",
+            "link": "none",
+            "depth": 2,
+            "year": "1996",
+            "n_parents": 1,
+            "id": 396,
+            "x": 1106.2251678484483,
+            "y": 681.8181818181819
+        },
+        {
+            "title": "\\Training Recurrent Neural Networks",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1511.05222",
+            "depth": 2,
+            "year": "2013",
+            "n_parents": 1,
+            "id": 397,
+            "x": 1116.5786382022925,
+            "y": 681.8181818181819
+        },
+        {
+            "title": "Learning to discover efficient mathematical identities",
+            "color": "khaki",
+            "link": "https://arxiv.org/abs/1406.1584",
+            "depth": 2,
+            "year": "none",
+            "n_parents": 1,
+            "id": 398,
+            "x": 1126.9321085561367,
+            "y": 681.8181818181819
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 1
+        },
+        {
+            "source": 0,
+            "target": 2
+        },
+        {
+            "source": 0,
+            "target": 3
+        },
+        {
+            "source": 0,
+            "target": 4
+        },
+        {
+            "source": 0,
+            "target": 5
+        },
+        {
+            "source": 0,
+            "target": 6
+        },
+        {
+            "source": 0,
+            "target": 7
+        },
+        {
+            "source": 0,
+            "target": 8
+        },
+        {
+            "source": 0,
+            "target": 9
+        },
+        {
+            "source": 0,
+            "target": 10
+        },
+        {
+            "source": 0,
+            "target": 11
+        },
+        {
+            "source": 0,
+            "target": 12
+        },
+        {
+            "source": 0,
+            "target": 13
+        },
+        {
+            "source": 0,
+            "target": 14
+        },
+        {
+            "source": 0,
+            "target": 15
+        },
+        {
+            "source": 0,
+            "target": 16
+        },
+        {
+            "source": 0,
+            "target": 17
+        },
+        {
+            "source": 0,
+            "target": 18
+        },
+        {
+            "source": 0,
+            "target": 19
+        },
+        {
+            "source": 0,
+            "target": 20
+        },
+        {
+            "source": 0,
+            "target": 21
+        },
+        {
+            "source": 0,
+            "target": 22
+        },
+        {
+            "source": 0,
+            "target": 23
+        },
+        {
+            "source": 0,
+            "target": 24
+        },
+        {
+            "source": 0,
+            "target": 25
+        },
+        {
+            "source": 0,
+            "target": 26
+        },
+        {
+            "source": 0,
+            "target": 27
+        },
+        {
+            "source": 0,
+            "target": 28
+        },
+        {
+            "source": 1,
+            "target": 1
+        },
+        {
+            "source": 2,
+            "target": 29
+        },
+        {
+            "source": 2,
+            "target": 30
+        },
+        {
+            "source": 2,
+            "target": 31
+        },
+        {
+            "source": 2,
+            "target": 32
+        },
+        {
+            "source": 2,
+            "target": 33
+        },
+        {
+            "source": 2,
+            "target": 34
+        },
+        {
+            "source": 2,
+            "target": 35
+        },
+        {
+            "source": 2,
+            "target": 36
+        },
+        {
+            "source": 2,
+            "target": 37
+        },
+        {
+            "source": 2,
+            "target": 38
+        },
+        {
+            "source": 2,
+            "target": 39
+        },
+        {
+            "source": 2,
+            "target": 40
+        },
+        {
+            "source": 2,
+            "target": 41
+        },
+        {
+            "source": 2,
+            "target": 42
+        },
+        {
+            "source": 2,
+            "target": 43
+        },
+        {
+            "source": 2,
+            "target": 44
+        },
+        {
+            "source": 2,
+            "target": 45
+        },
+        {
+            "source": 2,
+            "target": 46
+        },
+        {
+            "source": 2,
+            "target": 47
+        },
+        {
+            "source": 2,
+            "target": 48
+        },
+        {
+            "source": 2,
+            "target": 49
+        },
+        {
+            "source": 2,
+            "target": 50
+        },
+        {
+            "source": 2,
+            "target": 51
+        },
+        {
+            "source": 2,
+            "target": 52
+        },
+        {
+            "source": 2,
+            "target": 53
+        },
+        {
+            "source": 2,
+            "target": 23
+        },
+        {
+            "source": 2,
+            "target": 54
+        },
+        {
+            "source": 3,
+            "target": 55
+        },
+        {
+            "source": 3,
+            "target": 56
+        },
+        {
+            "source": 3,
+            "target": 57
+        },
+        {
+            "source": 3,
+            "target": 58
+        },
+        {
+            "source": 3,
+            "target": 59
+        },
+        {
+            "source": 3,
+            "target": 60
+        },
+        {
+            "source": 3,
+            "target": 4
+        },
+        {
+            "source": 3,
+            "target": 5
+        },
+        {
+            "source": 3,
+            "target": 6
+        },
+        {
+            "source": 3,
+            "target": 61
+        },
+        {
+            "source": 3,
+            "target": 62
+        },
+        {
+            "source": 3,
+            "target": 63
+        },
+        {
+            "source": 3,
+            "target": 64
+        },
+        {
+            "source": 3,
+            "target": 65
+        },
+        {
+            "source": 3,
+            "target": 10
+        },
+        {
+            "source": 3,
+            "target": 11
+        },
+        {
+            "source": 3,
+            "target": 66
+        },
+        {
+            "source": 3,
+            "target": 12
+        },
+        {
+            "source": 3,
+            "target": 67
+        },
+        {
+            "source": 3,
+            "target": 68
+        },
+        {
+            "source": 3,
+            "target": 69
+        },
+        {
+            "source": 3,
+            "target": 17
+        },
+        {
+            "source": 3,
+            "target": 18
+        },
+        {
+            "source": 3,
+            "target": 70
+        },
+        {
+            "source": 3,
+            "target": 20
+        },
+        {
+            "source": 3,
+            "target": 21
+        },
+        {
+            "source": 3,
+            "target": 22
+        },
+        {
+            "source": 3,
+            "target": 71
+        },
+        {
+            "source": 3,
+            "target": 72
+        },
+        {
+            "source": 3,
+            "target": 73
+        },
+        {
+            "source": 3,
+            "target": 74
+        },
+        {
+            "source": 3,
+            "target": 75
+        },
+        {
+            "source": 3,
+            "target": 76
+        },
+        {
+            "source": 3,
+            "target": 77
+        },
+        {
+            "source": 3,
+            "target": 78
+        },
+        {
+            "source": 4,
+            "target": 79
+        },
+        {
+            "source": 4,
+            "target": 1
+        },
+        {
+            "source": 4,
+            "target": 80
+        },
+        {
+            "source": 4,
+            "target": 31
+        },
+        {
+            "source": 4,
+            "target": 81
+        },
+        {
+            "source": 4,
+            "target": 56
+        },
+        {
+            "source": 4,
+            "target": 82
+        },
+        {
+            "source": 4,
+            "target": 36
+        },
+        {
+            "source": 4,
+            "target": 83
+        },
+        {
+            "source": 4,
+            "target": 84
+        },
+        {
+            "source": 4,
+            "target": 85
+        },
+        {
+            "source": 4,
+            "target": 86
+        },
+        {
+            "source": 4,
+            "target": 87
+        },
+        {
+            "source": 4,
+            "target": 88
+        },
+        {
+            "source": 4,
+            "target": 89
+        },
+        {
+            "source": 4,
+            "target": 41
+        },
+        {
+            "source": 4,
+            "target": 5
+        },
+        {
+            "source": 4,
+            "target": 61
+        },
+        {
+            "source": 4,
+            "target": 7
+        },
+        {
+            "source": 4,
+            "target": 90
+        },
+        {
+            "source": 4,
+            "target": 8
+        },
+        {
+            "source": 4,
+            "target": 44
+        },
+        {
+            "source": 4,
+            "target": 10
+        },
+        {
+            "source": 4,
+            "target": 11
+        },
+        {
+            "source": 4,
+            "target": 91
+        },
+        {
+            "source": 4,
+            "target": 92
+        },
+        {
+            "source": 4,
+            "target": 12
+        },
+        {
+            "source": 4,
+            "target": 93
+        },
+        {
+            "source": 4,
+            "target": 94
+        },
+        {
+            "source": 4,
+            "target": 95
+        },
+        {
+            "source": 4,
+            "target": 96
+        },
+        {
+            "source": 4,
+            "target": 97
+        },
+        {
+            "source": 4,
+            "target": 98
+        },
+        {
+            "source": 4,
+            "target": 18
+        },
+        {
+            "source": 4,
+            "target": 99
+        },
+        {
+            "source": 4,
+            "target": 100
+        },
+        {
+            "source": 4,
+            "target": 101
+        },
+        {
+            "source": 4,
+            "target": 20
+        },
+        {
+            "source": 4,
+            "target": 102
+        },
+        {
+            "source": 4,
+            "target": 21
+        },
+        {
+            "source": 4,
+            "target": 103
+        },
+        {
+            "source": 4,
+            "target": 22
+        },
+        {
+            "source": 4,
+            "target": 104
+        },
+        {
+            "source": 4,
+            "target": 105
+        },
+        {
+            "source": 4,
+            "target": 106
+        },
+        {
+            "source": 4,
+            "target": 107
+        },
+        {
+            "source": 4,
+            "target": 74
+        },
+        {
+            "source": 4,
+            "target": 108
+        },
+        {
+            "source": 4,
+            "target": 109
+        },
+        {
+            "source": 4,
+            "target": 110
+        },
+        {
+            "source": 4,
+            "target": 111
+        },
+        {
+            "source": 4,
+            "target": 76
+        },
+        {
+            "source": 4,
+            "target": 112
+        },
+        {
+            "source": 4,
+            "target": 113
+        },
+        {
+            "source": 4,
+            "target": 114
+        },
+        {
+            "source": 4,
+            "target": 115
+        },
+        {
+            "source": 4,
+            "target": 116
+        },
+        {
+            "source": 4,
+            "target": 77
+        },
+        {
+            "source": 4,
+            "target": 78
+        },
+        {
+            "source": 5,
+            "target": 117
+        },
+        {
+            "source": 5,
+            "target": 2
+        },
+        {
+            "source": 5,
+            "target": 118
+        },
+        {
+            "source": 5,
+            "target": 119
+        },
+        {
+            "source": 5,
+            "target": 120
+        },
+        {
+            "source": 5,
+            "target": 121
+        },
+        {
+            "source": 5,
+            "target": 122
+        },
+        {
+            "source": 5,
+            "target": 123
+        },
+        {
+            "source": 5,
+            "target": 124
+        },
+        {
+            "source": 5,
+            "target": 125
+        },
+        {
+            "source": 5,
+            "target": 126
+        },
+        {
+            "source": 5,
+            "target": 127
+        },
+        {
+            "source": 5,
+            "target": 41
+        },
+        {
+            "source": 5,
+            "target": 128
+        },
+        {
+            "source": 5,
+            "target": 129
+        },
+        {
+            "source": 5,
+            "target": 130
+        },
+        {
+            "source": 5,
+            "target": 131
+        },
+        {
+            "source": 5,
+            "target": 132
+        },
+        {
+            "source": 5,
+            "target": 133
+        },
+        {
+            "source": 5,
+            "target": 44
+        },
+        {
+            "source": 5,
+            "target": 134
+        },
+        {
+            "source": 5,
+            "target": 135
+        },
+        {
+            "source": 5,
+            "target": 136
+        },
+        {
+            "source": 5,
+            "target": 137
+        },
+        {
+            "source": 5,
+            "target": 138
+        },
+        {
+            "source": 5,
+            "target": 139
+        },
+        {
+            "source": 5,
+            "target": 140
+        },
+        {
+            "source": 5,
+            "target": 141
+        },
+        {
+            "source": 5,
+            "target": 142
+        },
+        {
+            "source": 5,
+            "target": 143
+        },
+        {
+            "source": 5,
+            "target": 144
+        },
+        {
+            "source": 5,
+            "target": 145
+        },
+        {
+            "source": 5,
+            "target": 146
+        },
+        {
+            "source": 5,
+            "target": 147
+        },
+        {
+            "source": 5,
+            "target": 148
+        },
+        {
+            "source": 5,
+            "target": 149
+        },
+        {
+            "source": 5,
+            "target": 150
+        },
+        {
+            "source": 5,
+            "target": 151
+        },
+        {
+            "source": 5,
+            "target": 23
+        },
+        {
+            "source": 5,
+            "target": 152
+        },
+        {
+            "source": 5,
+            "target": 153
+        },
+        {
+            "source": 5,
+            "target": 154
+        },
+        {
+            "source": 10,
+            "target": 155
+        },
+        {
+            "source": 10,
+            "target": 156
+        },
+        {
+            "source": 10,
+            "target": 157
+        },
+        {
+            "source": 10,
+            "target": 158
+        },
+        {
+            "source": 10,
+            "target": 159
+        },
+        {
+            "source": 10,
+            "target": 160
+        },
+        {
+            "source": 10,
+            "target": 35
+        },
+        {
+            "source": 10,
+            "target": 161
+        },
+        {
+            "source": 10,
+            "target": 162
+        },
+        {
+            "source": 10,
+            "target": 163
+        },
+        {
+            "source": 10,
+            "target": 164
+        },
+        {
+            "source": 10,
+            "target": 165
+        },
+        {
+            "source": 10,
+            "target": 120
+        },
+        {
+            "source": 10,
+            "target": 84
+        },
+        {
+            "source": 10,
+            "target": 166
+        },
+        {
+            "source": 10,
+            "target": 167
+        },
+        {
+            "source": 10,
+            "target": 168
+        },
+        {
+            "source": 10,
+            "target": 5
+        },
+        {
+            "source": 10,
+            "target": 169
+        },
+        {
+            "source": 10,
+            "target": 44
+        },
+        {
+            "source": 10,
+            "target": 170
+        },
+        {
+            "source": 10,
+            "target": 171
+        },
+        {
+            "source": 10,
+            "target": 172
+        },
+        {
+            "source": 10,
+            "target": 173
+        },
+        {
+            "source": 10,
+            "target": 95
+        },
+        {
+            "source": 10,
+            "target": 174
+        },
+        {
+            "source": 10,
+            "target": 98
+        },
+        {
+            "source": 10,
+            "target": 175
+        },
+        {
+            "source": 10,
+            "target": 176
+        },
+        {
+            "source": 10,
+            "target": 177
+        },
+        {
+            "source": 10,
+            "target": 178
+        },
+        {
+            "source": 10,
+            "target": 179
+        },
+        {
+            "source": 10,
+            "target": 180
+        },
+        {
+            "source": 10,
+            "target": 77
+        },
+        {
+            "source": 10,
+            "target": 181
+        },
+        {
+            "source": 10,
+            "target": 182
+        },
+        {
+            "source": 10,
+            "target": 28
+        },
+        {
+            "source": 10,
+            "target": 183
+        },
+        {
+            "source": 11,
+            "target": 184
+        },
+        {
+            "source": 11,
+            "target": 185
+        },
+        {
+            "source": 11,
+            "target": 186
+        },
+        {
+            "source": 11,
+            "target": 187
+        },
+        {
+            "source": 11,
+            "target": 188
+        },
+        {
+            "source": 11,
+            "target": 165
+        },
+        {
+            "source": 11,
+            "target": 189
+        },
+        {
+            "source": 11,
+            "target": 190
+        },
+        {
+            "source": 11,
+            "target": 191
+        },
+        {
+            "source": 11,
+            "target": 44
+        },
+        {
+            "source": 11,
+            "target": 192
+        },
+        {
+            "source": 11,
+            "target": 193
+        },
+        {
+            "source": 11,
+            "target": 23
+        },
+        {
+            "source": 11,
+            "target": 194
+        },
+        {
+            "source": 11,
+            "target": 195
+        },
+        {
+            "source": 11,
+            "target": 196
+        },
+        {
+            "source": 12,
+            "target": 2
+        },
+        {
+            "source": 12,
+            "target": 31
+        },
+        {
+            "source": 12,
+            "target": 197
+        },
+        {
+            "source": 12,
+            "target": 187
+        },
+        {
+            "source": 12,
+            "target": 5
+        },
+        {
+            "source": 12,
+            "target": 61
+        },
+        {
+            "source": 12,
+            "target": 44
+        },
+        {
+            "source": 12,
+            "target": 10
+        },
+        {
+            "source": 12,
+            "target": 198
+        },
+        {
+            "source": 12,
+            "target": 199
+        },
+        {
+            "source": 12,
+            "target": 13
+        },
+        {
+            "source": 12,
+            "target": 200
+        },
+        {
+            "source": 12,
+            "target": 99
+        },
+        {
+            "source": 12,
+            "target": 201
+        },
+        {
+            "source": 12,
+            "target": 76
+        },
+        {
+            "source": 12,
+            "target": 25
+        },
+        {
+            "source": 12,
+            "target": 202
+        },
+        {
+            "source": 12,
+            "target": 77
+        },
+        {
+            "source": 12,
+            "target": 28
+        },
+        {
+            "source": 12,
+            "target": 203
+        },
+        {
+            "source": 13,
+            "target": 2
+        },
+        {
+            "source": 13,
+            "target": 204
+        },
+        {
+            "source": 13,
+            "target": 35
+        },
+        {
+            "source": 13,
+            "target": 205
+        },
+        {
+            "source": 13,
+            "target": 206
+        },
+        {
+            "source": 13,
+            "target": 207
+        },
+        {
+            "source": 13,
+            "target": 45
+        },
+        {
+            "source": 13,
+            "target": 47
+        },
+        {
+            "source": 13,
+            "target": 208
+        },
+        {
+            "source": 13,
+            "target": 209
+        },
+        {
+            "source": 13,
+            "target": 210
+        },
+        {
+            "source": 13,
+            "target": 211
+        },
+        {
+            "source": 13,
+            "target": 23
+        },
+        {
+            "source": 13,
+            "target": 27
+        },
+        {
+            "source": 13,
+            "target": 212
+        },
+        {
+            "source": 18,
+            "target": 213
+        },
+        {
+            "source": 18,
+            "target": 2
+        },
+        {
+            "source": 18,
+            "target": 214
+        },
+        {
+            "source": 18,
+            "target": 215
+        },
+        {
+            "source": 18,
+            "target": 216
+        },
+        {
+            "source": 18,
+            "target": 187
+        },
+        {
+            "source": 18,
+            "target": 217
+        },
+        {
+            "source": 18,
+            "target": 120
+        },
+        {
+            "source": 18,
+            "target": 218
+        },
+        {
+            "source": 18,
+            "target": 219
+        },
+        {
+            "source": 18,
+            "target": 220
+        },
+        {
+            "source": 18,
+            "target": 221
+        },
+        {
+            "source": 18,
+            "target": 168
+        },
+        {
+            "source": 18,
+            "target": 41
+        },
+        {
+            "source": 18,
+            "target": 128
+        },
+        {
+            "source": 18,
+            "target": 5
+        },
+        {
+            "source": 18,
+            "target": 222
+        },
+        {
+            "source": 18,
+            "target": 223
+        },
+        {
+            "source": 18,
+            "target": 224
+        },
+        {
+            "source": 18,
+            "target": 44
+        },
+        {
+            "source": 18,
+            "target": 225
+        },
+        {
+            "source": 18,
+            "target": 226
+        },
+        {
+            "source": 18,
+            "target": 10
+        },
+        {
+            "source": 18,
+            "target": 199
+        },
+        {
+            "source": 18,
+            "target": 171
+        },
+        {
+            "source": 18,
+            "target": 227
+        },
+        {
+            "source": 18,
+            "target": 228
+        },
+        {
+            "source": 18,
+            "target": 229
+        },
+        {
+            "source": 18,
+            "target": 230
+        },
+        {
+            "source": 18,
+            "target": 231
+        },
+        {
+            "source": 18,
+            "target": 209
+        },
+        {
+            "source": 18,
+            "target": 232
+        },
+        {
+            "source": 18,
+            "target": 99
+        },
+        {
+            "source": 18,
+            "target": 233
+        },
+        {
+            "source": 18,
+            "target": 234
+        },
+        {
+            "source": 18,
+            "target": 235
+        },
+        {
+            "source": 18,
+            "target": 236
+        },
+        {
+            "source": 18,
+            "target": 237
+        },
+        {
+            "source": 18,
+            "target": 21
+        },
+        {
+            "source": 18,
+            "target": 238
+        },
+        {
+            "source": 18,
+            "target": 239
+        },
+        {
+            "source": 18,
+            "target": 169
+        },
+        {
+            "source": 18,
+            "target": 76
+        },
+        {
+            "source": 18,
+            "target": 23
+        },
+        {
+            "source": 18,
+            "target": 240
+        },
+        {
+            "source": 18,
+            "target": 241
+        },
+        {
+            "source": 18,
+            "target": 153
+        },
+        {
+            "source": 18,
+            "target": 242
+        },
+        {
+            "source": 18,
+            "target": 196
+        },
+        {
+            "source": 18,
+            "target": 243
+        },
+        {
+            "source": 18,
+            "target": 77
+        },
+        {
+            "source": 18,
+            "target": 27
+        },
+        {
+            "source": 18,
+            "target": 244
+        },
+        {
+            "source": 18,
+            "target": 245
+        },
+        {
+            "source": 18,
+            "target": 183
+        },
+        {
+            "source": 18,
+            "target": 246
+        },
+        {
+            "source": 19,
+            "target": 1
+        },
+        {
+            "source": 19,
+            "target": 247
+        },
+        {
+            "source": 19,
+            "target": 81
+        },
+        {
+            "source": 19,
+            "target": 56
+        },
+        {
+            "source": 19,
+            "target": 4
+        },
+        {
+            "source": 19,
+            "target": 5
+        },
+        {
+            "source": 19,
+            "target": 7
+        },
+        {
+            "source": 19,
+            "target": 63
+        },
+        {
+            "source": 19,
+            "target": 8
+        },
+        {
+            "source": 19,
+            "target": 248
+        },
+        {
+            "source": 19,
+            "target": 249
+        },
+        {
+            "source": 19,
+            "target": 10
+        },
+        {
+            "source": 19,
+            "target": 12
+        },
+        {
+            "source": 19,
+            "target": 250
+        },
+        {
+            "source": 19,
+            "target": 229
+        },
+        {
+            "source": 19,
+            "target": 251
+        },
+        {
+            "source": 19,
+            "target": 17
+        },
+        {
+            "source": 19,
+            "target": 18
+        },
+        {
+            "source": 19,
+            "target": 252
+        },
+        {
+            "source": 19,
+            "target": 253
+        },
+        {
+            "source": 19,
+            "target": 21
+        },
+        {
+            "source": 19,
+            "target": 22
+        },
+        {
+            "source": 19,
+            "target": 104
+        },
+        {
+            "source": 19,
+            "target": 254
+        },
+        {
+            "source": 19,
+            "target": 107
+        },
+        {
+            "source": 19,
+            "target": 74
+        },
+        {
+            "source": 19,
+            "target": 108
+        },
+        {
+            "source": 19,
+            "target": 112
+        },
+        {
+            "source": 19,
+            "target": 114
+        },
+        {
+            "source": 19,
+            "target": 25
+        },
+        {
+            "source": 21,
+            "target": 255
+        },
+        {
+            "source": 21,
+            "target": 256
+        },
+        {
+            "source": 21,
+            "target": 257
+        },
+        {
+            "source": 21,
+            "target": 258
+        },
+        {
+            "source": 21,
+            "target": 259
+        },
+        {
+            "source": 21,
+            "target": 260
+        },
+        {
+            "source": 21,
+            "target": 261
+        },
+        {
+            "source": 21,
+            "target": 5
+        },
+        {
+            "source": 21,
+            "target": 44
+        },
+        {
+            "source": 21,
+            "target": 10
+        },
+        {
+            "source": 21,
+            "target": 11
+        },
+        {
+            "source": 21,
+            "target": 199
+        },
+        {
+            "source": 21,
+            "target": 262
+        },
+        {
+            "source": 21,
+            "target": 12
+        },
+        {
+            "source": 21,
+            "target": 263
+        },
+        {
+            "source": 21,
+            "target": 264
+        },
+        {
+            "source": 21,
+            "target": 18
+        },
+        {
+            "source": 21,
+            "target": 265
+        },
+        {
+            "source": 21,
+            "target": 266
+        },
+        {
+            "source": 21,
+            "target": 267
+        },
+        {
+            "source": 21,
+            "target": 268
+        },
+        {
+            "source": 21,
+            "target": 269
+        },
+        {
+            "source": 21,
+            "target": 270
+        },
+        {
+            "source": 21,
+            "target": 271
+        },
+        {
+            "source": 21,
+            "target": 272
+        },
+        {
+            "source": 21,
+            "target": 23
+        },
+        {
+            "source": 21,
+            "target": 273
+        },
+        {
+            "source": 21,
+            "target": 202
+        },
+        {
+            "source": 21,
+            "target": 28
+        },
+        {
+            "source": 21,
+            "target": 203
+        },
+        {
+            "source": 21,
+            "target": 78
+        },
+        {
+            "source": 22,
+            "target": 274
+        },
+        {
+            "source": 22,
+            "target": 275
+        },
+        {
+            "source": 22,
+            "target": 276
+        },
+        {
+            "source": 22,
+            "target": 277
+        },
+        {
+            "source": 22,
+            "target": 278
+        },
+        {
+            "source": 22,
+            "target": 56
+        },
+        {
+            "source": 22,
+            "target": 4
+        },
+        {
+            "source": 22,
+            "target": 89
+        },
+        {
+            "source": 22,
+            "target": 5
+        },
+        {
+            "source": 22,
+            "target": 6
+        },
+        {
+            "source": 22,
+            "target": 61
+        },
+        {
+            "source": 22,
+            "target": 279
+        },
+        {
+            "source": 22,
+            "target": 44
+        },
+        {
+            "source": 22,
+            "target": 10
+        },
+        {
+            "source": 22,
+            "target": 11
+        },
+        {
+            "source": 22,
+            "target": 280
+        },
+        {
+            "source": 22,
+            "target": 199
+        },
+        {
+            "source": 22,
+            "target": 192
+        },
+        {
+            "source": 22,
+            "target": 281
+        },
+        {
+            "source": 22,
+            "target": 282
+        },
+        {
+            "source": 22,
+            "target": 12
+        },
+        {
+            "source": 22,
+            "target": 283
+        },
+        {
+            "source": 22,
+            "target": 284
+        },
+        {
+            "source": 22,
+            "target": 285
+        },
+        {
+            "source": 22,
+            "target": 286
+        },
+        {
+            "source": 22,
+            "target": 18
+        },
+        {
+            "source": 22,
+            "target": 99
+        },
+        {
+            "source": 22,
+            "target": 287
+        },
+        {
+            "source": 22,
+            "target": 21
+        },
+        {
+            "source": 22,
+            "target": 288
+        },
+        {
+            "source": 22,
+            "target": 289
+        },
+        {
+            "source": 22,
+            "target": 290
+        },
+        {
+            "source": 22,
+            "target": 108
+        },
+        {
+            "source": 22,
+            "target": 109
+        },
+        {
+            "source": 22,
+            "target": 23
+        },
+        {
+            "source": 23,
+            "target": 291
+        },
+        {
+            "source": 23,
+            "target": 2
+        },
+        {
+            "source": 23,
+            "target": 32
+        },
+        {
+            "source": 23,
+            "target": 31
+        },
+        {
+            "source": 23,
+            "target": 35
+        },
+        {
+            "source": 23,
+            "target": 292
+        },
+        {
+            "source": 23,
+            "target": 165
+        },
+        {
+            "source": 23,
+            "target": 37
+        },
+        {
+            "source": 23,
+            "target": 293
+        },
+        {
+            "source": 23,
+            "target": 41
+        },
+        {
+            "source": 23,
+            "target": 294
+        },
+        {
+            "source": 23,
+            "target": 43
+        },
+        {
+            "source": 23,
+            "target": 224
+        },
+        {
+            "source": 23,
+            "target": 295
+        },
+        {
+            "source": 23,
+            "target": 44
+        },
+        {
+            "source": 23,
+            "target": 296
+        },
+        {
+            "source": 23,
+            "target": 45
+        },
+        {
+            "source": 23,
+            "target": 171
+        },
+        {
+            "source": 23,
+            "target": 297
+        },
+        {
+            "source": 23,
+            "target": 172
+        },
+        {
+            "source": 23,
+            "target": 173
+        },
+        {
+            "source": 23,
+            "target": 298
+        },
+        {
+            "source": 23,
+            "target": 211
+        },
+        {
+            "source": 23,
+            "target": 48
+        },
+        {
+            "source": 23,
+            "target": 50
+        },
+        {
+            "source": 23,
+            "target": 299
+        },
+        {
+            "source": 23,
+            "target": 300
+        },
+        {
+            "source": 23,
+            "target": 301
+        },
+        {
+            "source": 23,
+            "target": 302
+        },
+        {
+            "source": 23,
+            "target": 303
+        },
+        {
+            "source": 24,
+            "target": 2
+        },
+        {
+            "source": 24,
+            "target": 31
+        },
+        {
+            "source": 24,
+            "target": 304
+        },
+        {
+            "source": 24,
+            "target": 305
+        },
+        {
+            "source": 24,
+            "target": 306
+        },
+        {
+            "source": 24,
+            "target": 307
+        },
+        {
+            "source": 24,
+            "target": 308
+        },
+        {
+            "source": 24,
+            "target": 166
+        },
+        {
+            "source": 24,
+            "target": 309
+        },
+        {
+            "source": 24,
+            "target": 310
+        },
+        {
+            "source": 24,
+            "target": 311
+        },
+        {
+            "source": 24,
+            "target": 42
+        },
+        {
+            "source": 24,
+            "target": 312
+        },
+        {
+            "source": 24,
+            "target": 313
+        },
+        {
+            "source": 24,
+            "target": 314
+        },
+        {
+            "source": 24,
+            "target": 44
+        },
+        {
+            "source": 24,
+            "target": 315
+        },
+        {
+            "source": 24,
+            "target": 316
+        },
+        {
+            "source": 24,
+            "target": 317
+        },
+        {
+            "source": 24,
+            "target": 318
+        },
+        {
+            "source": 24,
+            "target": 319
+        },
+        {
+            "source": 24,
+            "target": 320
+        },
+        {
+            "source": 24,
+            "target": 321
+        },
+        {
+            "source": 24,
+            "target": 322
+        },
+        {
+            "source": 24,
+            "target": 173
+        },
+        {
+            "source": 24,
+            "target": 323
+        },
+        {
+            "source": 24,
+            "target": 324
+        },
+        {
+            "source": 24,
+            "target": 325
+        },
+        {
+            "source": 24,
+            "target": 300
+        },
+        {
+            "source": 24,
+            "target": 150
+        },
+        {
+            "source": 24,
+            "target": 326
+        },
+        {
+            "source": 24,
+            "target": 327
+        },
+        {
+            "source": 24,
+            "target": 328
+        },
+        {
+            "source": 24,
+            "target": 329
+        },
+        {
+            "source": 24,
+            "target": 23
+        },
+        {
+            "source": 24,
+            "target": 330
+        },
+        {
+            "source": 24,
+            "target": 241
+        },
+        {
+            "source": 24,
+            "target": 331
+        },
+        {
+            "source": 24,
+            "target": 28
+        },
+        {
+            "source": 24,
+            "target": 332
+        },
+        {
+            "source": 25,
+            "target": 23
+        },
+        {
+            "source": 25,
+            "target": 2
+        },
+        {
+            "source": 25,
+            "target": 209
+        },
+        {
+            "source": 25,
+            "target": 207
+        },
+        {
+            "source": 25,
+            "target": 44
+        },
+        {
+            "source": 25,
+            "target": 333
+        },
+        {
+            "source": 25,
+            "target": 334
+        },
+        {
+            "source": 25,
+            "target": 335
+        },
+        {
+            "source": 25,
+            "target": 336
+        },
+        {
+            "source": 25,
+            "target": 337
+        },
+        {
+            "source": 25,
+            "target": 338
+        },
+        {
+            "source": 25,
+            "target": 339
+        },
+        {
+            "source": 25,
+            "target": 340
+        },
+        {
+            "source": 25,
+            "target": 341
+        },
+        {
+            "source": 25,
+            "target": 342
+        },
+        {
+            "source": 25,
+            "target": 343
+        },
+        {
+            "source": 25,
+            "target": 344
+        },
+        {
+            "source": 25,
+            "target": 345
+        },
+        {
+            "source": 25,
+            "target": 319
+        },
+        {
+            "source": 25,
+            "target": 346
+        },
+        {
+            "source": 25,
+            "target": 347
+        },
+        {
+            "source": 25,
+            "target": 348
+        },
+        {
+            "source": 25,
+            "target": 349
+        },
+        {
+            "source": 25,
+            "target": 327
+        },
+        {
+            "source": 25,
+            "target": 350
+        },
+        {
+            "source": 25,
+            "target": 351
+        },
+        {
+            "source": 25,
+            "target": 41
+        },
+        {
+            "source": 25,
+            "target": 352
+        },
+        {
+            "source": 25,
+            "target": 45
+        },
+        {
+            "source": 25,
+            "target": 241
+        },
+        {
+            "source": 25,
+            "target": 353
+        },
+        {
+            "source": 27,
+            "target": 354
+        },
+        {
+            "source": 27,
+            "target": 2
+        },
+        {
+            "source": 27,
+            "target": 355
+        },
+        {
+            "source": 27,
+            "target": 30
+        },
+        {
+            "source": 27,
+            "target": 33
+        },
+        {
+            "source": 27,
+            "target": 356
+        },
+        {
+            "source": 27,
+            "target": 35
+        },
+        {
+            "source": 27,
+            "target": 357
+        },
+        {
+            "source": 27,
+            "target": 358
+        },
+        {
+            "source": 27,
+            "target": 359
+        },
+        {
+            "source": 27,
+            "target": 360
+        },
+        {
+            "source": 27,
+            "target": 361
+        },
+        {
+            "source": 27,
+            "target": 362
+        },
+        {
+            "source": 27,
+            "target": 44
+        },
+        {
+            "source": 27,
+            "target": 363
+        },
+        {
+            "source": 27,
+            "target": 364
+        },
+        {
+            "source": 27,
+            "target": 199
+        },
+        {
+            "source": 27,
+            "target": 365
+        },
+        {
+            "source": 27,
+            "target": 366
+        },
+        {
+            "source": 27,
+            "target": 171
+        },
+        {
+            "source": 27,
+            "target": 367
+        },
+        {
+            "source": 27,
+            "target": 368
+        },
+        {
+            "source": 27,
+            "target": 369
+        },
+        {
+            "source": 27,
+            "target": 370
+        },
+        {
+            "source": 27,
+            "target": 371
+        },
+        {
+            "source": 27,
+            "target": 372
+        },
+        {
+            "source": 27,
+            "target": 373
+        },
+        {
+            "source": 27,
+            "target": 374
+        },
+        {
+            "source": 27,
+            "target": 210
+        },
+        {
+            "source": 27,
+            "target": 49
+        },
+        {
+            "source": 27,
+            "target": 375
+        },
+        {
+            "source": 27,
+            "target": 376
+        },
+        {
+            "source": 27,
+            "target": 377
+        },
+        {
+            "source": 27,
+            "target": 378
+        },
+        {
+            "source": 27,
+            "target": 379
+        },
+        {
+            "source": 27,
+            "target": 23
+        },
+        {
+            "source": 27,
+            "target": 380
+        },
+        {
+            "source": 27,
+            "target": 381
+        },
+        {
+            "source": 27,
+            "target": 382
+        },
+        {
+            "source": 27,
+            "target": 241
+        },
+        {
+            "source": 27,
+            "target": 383
+        },
+        {
+            "source": 27,
+            "target": 384
+        },
+        {
+            "source": 27,
+            "target": 385
+        },
+        {
+            "source": 27,
+            "target": 386
+        },
+        {
+            "source": 27,
+            "target": 212
+        },
+        {
+            "source": 28,
+            "target": 197
+        },
+        {
+            "source": 28,
+            "target": 387
+        },
+        {
+            "source": 28,
+            "target": 388
+        },
+        {
+            "source": 28,
+            "target": 389
+        },
+        {
+            "source": 28,
+            "target": 35
+        },
+        {
+            "source": 28,
+            "target": 129
+        },
+        {
+            "source": 28,
+            "target": 390
+        },
+        {
+            "source": 28,
+            "target": 44
+        },
+        {
+            "source": 28,
+            "target": 391
+        },
+        {
+            "source": 28,
+            "target": 91
+        },
+        {
+            "source": 28,
+            "target": 392
+        },
+        {
+            "source": 28,
+            "target": 393
+        },
+        {
+            "source": 28,
+            "target": 251
+        },
+        {
+            "source": 28,
+            "target": 394
+        },
+        {
+            "source": 28,
+            "target": 173
+        },
+        {
+            "source": 28,
+            "target": 298
+        },
+        {
+            "source": 28,
+            "target": 264
+        },
+        {
+            "source": 28,
+            "target": 49
+        },
+        {
+            "source": 28,
+            "target": 395
+        },
+        {
+            "source": 28,
+            "target": 396
+        },
+        {
+            "source": 28,
+            "target": 397
+        },
+        {
+            "source": 28,
+            "target": 23
+        },
+        {
+            "source": 28,
+            "target": 398
+        },
+        {
+            "source": 28,
+            "target": 212
+        }
+    ]
+}
